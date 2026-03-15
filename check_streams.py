@@ -1,4 +1,4 @@
-    import os
+import os
 import requests
 import re
 from datetime import datetime
@@ -74,4 +74,3 @@ def check_health():
 
 if __name__ == "__main__":
     check_health()
-
