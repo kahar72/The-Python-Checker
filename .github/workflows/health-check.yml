@@ -2,35 +2,44 @@ name: IPTV Health Monitor
 
 on:
   schedule:
+    # This runs every 6 hours. You can change the '6' to '12' or '24' if you want it less often.
     - cron: '0 */6 * * *' 
-  workflow_dispatch:      
+  workflow_dispatch:      # Allows you to click the "Run workflow" button manually
+
+# This section ensures the GitHub Bot has permission to save the report to your repo
+permissions:
+  contents: write
 
 jobs:
   check-status:
     runs-on: ubuntu-latest
     steps:
-      # Updated from @v4 to @v5 (or the latest stable version)
+      # 1. Pulls the code from your repository
       - name: Checkout code
         uses: actions/checkout@v4 
 
-      # Updated from @v4 to @v5
+      # 2. Sets up Python (Updated to v5 to remove the Node.js 20 warning)
       - name: Set up Python
         uses: actions/setup-python@v5 
         with:
           python-version: '3.10'
 
+      # 3. Installs the 'requests' library needed to check URLs
       - name: Install dependencies
         run: pip install requests
 
+      # 4. Runs your Python script and passes the Dropbox Secret
       - name: Run health check
         env:
           MY_DROPBOX_URL: ${{ secrets.MY_DROPBOX_URL }}
         run: python check_streams.py
 
+      # 5. Automatically updates the STREAM_STATUS.md file in your repo
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add STREAM_STATUS.md
+          # Only commit if the file actually changed; if no changes, it will exit quietly
           git commit -m "Update stream health report" || exit 0
           git push
