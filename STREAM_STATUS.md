@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-03-15 04:07:47 (SGT)
+**Last Checked:** 2026-03-15 04:14:08 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -12,7 +12,7 @@
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| MNC TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| MNC TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 504 |
 | ANTV 🇮🇩 | ⚠️ Failed | HLS (.m3u8) | Timeout/Error |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -27,7 +27,7 @@
 | A&E 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| Animal Planet 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -56,7 +56,7 @@
 | Sky Sport Austria 1 🇦🇹 | ⚠️ Failed | HLS (.m3u8) | Timeout/Error |
 | FIFA+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Main Event 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Main Event 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 403 |
 | Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 403 |
 | Sky Sports Formula 1 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 403 |
@@ -88,16 +88,16 @@
 | Sony Sports Ten 5 🇮🇳 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 3 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 403 |
+| Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 5 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 403 |
-| Sport TV 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sport TV 2 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 403 |
+| Sport TV 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 403 |
+| Sport TV 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 4 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 403 |
 | Sport TV 5 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 403 |
-| Sky Sport Top Event 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 403 |
-| Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Austria 1 🇦🇹 | ❌ Offline | HLS (.m3u8) | Error 403 |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Ziggo Sport 6 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
