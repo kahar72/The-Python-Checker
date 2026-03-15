@@ -3,7 +3,7 @@ name: IPTV Health Monitor
 on:
   schedule:
     - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows you to run it manually for testing
+  workflow_dispatch:      # Allows you to click a button to run it manually
 
 jobs:
   check-status:
@@ -21,6 +21,9 @@ jobs:
         run: pip install requests
 
       - name: Run health check
+        env:
+          # This connects your GitHub Secret to the Python script
+          MY_DROPBOX_URL: ${{ secrets.MY_DROPBOX_URL }}
         run: python check_streams.py
 
       - name: Commit and Push changes
