@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-03-16 13:21:27 (SGT)
+**Last Checked:** 2026-03-16 19:08:13 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -44,7 +44,7 @@
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 504 |
+| RCTI 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | MNC TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | ANTV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
