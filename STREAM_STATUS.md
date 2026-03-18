@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-03-17 19:07:34 (SGT)
+**Last Checked:** 2026-03-18 02:34:33 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -148,10 +148,10 @@
 | Sky Sport 9 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro UHD 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Grandstand 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| NOW Sports PL 1 🇭🇰 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NOW Sports PL 2 🇭🇰 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NOW Sports PL 3 🇭🇰 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NOW Sports PL 4 🇭🇰 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NOW Sports PL 1 🇭🇰 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| NOW Sports PL 2 🇭🇰 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| NOW Sports PL 3 🇭🇰 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| NOW Sports PL 4 🇭🇰 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -194,10 +194,10 @@
 | TNT Sports 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 3 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 4 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Main Event 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Main Event 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 406 |
-| Sky Sports Formula 1 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports NFL 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sky Sports Mix 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Premier Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -223,26 +223,26 @@
 | NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NFL Redzone 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NBC Sports Bay Area 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NBC Sports Bay Area 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | NBC Sports Now 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sportsnet 360 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sportsnet 360 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sportsnet East 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sportsnet One 🇨🇦 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sportsnet One 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet World 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 4 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 5 🇨🇦 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 5 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Sport TV 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 5 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sport TV 1 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sport TV 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sport TV 3 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Sport TV 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sport TV 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sport TV 4 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sport TV 5 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
