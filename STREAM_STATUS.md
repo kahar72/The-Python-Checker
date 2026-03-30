@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-03-30 13:41:42 (SGT)
+**Last Checked:** 2026-03-30 19:04:23 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -41,9 +41,9 @@
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 504 |
+| RCTI 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | MNC TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ANTV 🇮🇩 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MOJI TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -82,7 +82,7 @@
 | Asian Food Network 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Travel & Taste 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Smithsonian Channel 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Smithsonian Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Travel Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | A&E 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -93,7 +93,7 @@
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RT Documentary 🇷🇺 | ✅ Online | HLS (.m3u8) | 200 OK |
-| CGTN Documentary 🇨🇳 | ✅ Online | DASH (.mpd) | 200 OK |
+| CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Boo 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Showcase Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sony Max 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -144,7 +144,7 @@
 | Sky Sport 9 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Select 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro UHD 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| Astro Grandstand 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Astro Grandstand 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 504 |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -220,21 +220,21 @@
 | Sportsnet East 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet One 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet World 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 1 🇨🇦 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 3 🇨🇦 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| TSN 3 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 4 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ONE Friday Fights | ✅ Online | DASH (.mpd) | 200 OK |
 | Eleven Sports 1 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Eleven Sports 2 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Eleven Sports 3 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Eleven Sports 5 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sport TV 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sport TV 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sport TV 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sport TV 3 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sport TV 4 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sport TV 5 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | SportDigital Fussball 🇩🇪 | ✅ Online | DASH (.mpd) | 200 OK |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -271,7 +271,7 @@
 | Sky Sports Main Event 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Formula 1 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
