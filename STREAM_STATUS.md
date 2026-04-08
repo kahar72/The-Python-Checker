@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-04-08 07:27:04 (SGT)
+**Last Checked:** 2026-04-08 13:41:45 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -87,8 +87,8 @@
 | A&E 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| National Geographic 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -248,7 +248,7 @@
 | Eleven Sports 5 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sport TV 3 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sport TV 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 5 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 1 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -264,9 +264,9 @@
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Football 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Formula 1 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -327,7 +327,7 @@
 | Fox Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 2 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Deportes 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Fox Deportes 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 🇲🇽 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Fox Sports 2 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 3 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
