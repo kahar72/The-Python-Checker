@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-04-13 08:10:16 (SGT)
+**Last Checked:** 2026-04-13 13:46:55 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -53,7 +53,7 @@
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Alwafa Tarim TV 🇮🇩 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Alwafa Tarim TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Rodja TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Jazeera English 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -89,7 +89,7 @@
 | World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Animal Planet 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RT Documentary 🇷🇺 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -118,7 +118,7 @@
 | Rock Entertainment 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hits Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Cartoon Network 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Boomerang 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DreamWorks 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Nick Jr. 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -205,7 +205,7 @@
 | Premier Sports Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | CBS Sports Network 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | CBS Sports Golazo Network 🇺🇸 | ✅ Online | DASH (.mpd) | 200 OK |
-| NFL Network 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 502 |
+| NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NFL Redzone 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC Sports Bay Area 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
@@ -242,7 +242,7 @@
 | V Sport 3 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
 | V Sport + 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
 | Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 2 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 5 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 406 |
@@ -262,15 +262,12 @@
 | Sky Sport 9 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Select 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Main Event 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 401 |
-| Sky Sports Main Event UHD 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Main Event 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Formula 1 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Sky Sports Ultra 2 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -306,7 +303,7 @@
 | beIN Sports 4 🇹🇷 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | beIN Sports Max 1 🇹🇷 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | beIN Sports Max 2 🇹🇷 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| ESPN 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | ESPN 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -314,10 +311,10 @@
 | ESPN 2 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | ESPN 3 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | ESPN+ 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
-| ESPN 🇳🇱 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| ESPN 2 🇳🇱 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| ESPN 3 🇳🇱 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| ESPN 4 🇳🇱 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| ESPN 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 2 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 3 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 4 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 🇧🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇧🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 🇧🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
