@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-04-13 03:20:16 (SGT)
+**Last Checked:** 2026-04-13 08:10:16 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -89,7 +89,7 @@
 | World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Animal Planet 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Nat Geo Wild 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RT Documentary 🇷🇺 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -118,7 +118,7 @@
 | Rock Entertainment 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hits Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Cartoon Network 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Boomerang 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | DreamWorks 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Nick Jr. 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -194,7 +194,7 @@
 | TNT Sports 4 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
-| Premier Sports Rugby 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
+| Premier Sports Rugby 🇬🇧 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Football 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Grandstand 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -205,14 +205,14 @@
 | Premier Sports Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | CBS Sports Network 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | CBS Sports Golazo Network 🇺🇸 | ✅ Online | DASH (.mpd) | 200 OK |
-| NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NFL Network 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 502 |
 | NFL Redzone 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC Sports Bay Area 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | NBC Sports Now 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet 360 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet East 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sportsnet One 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 502 |
+| Sportsnet One 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet World 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -242,9 +242,9 @@
 | V Sport 3 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
 | V Sport + 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
 | Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 2 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 4 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Eleven Sports 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 5 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sport TV 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 2 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
@@ -328,7 +328,7 @@
 | Fox Sports 2 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Deportes 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Sports 🇲🇽 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Fox Sports 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 2 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 3 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports Premium 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
