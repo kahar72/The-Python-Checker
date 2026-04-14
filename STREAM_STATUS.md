@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-04-14 07:53:02 (SGT)
+**Last Checked:** 2026-04-14 13:52:05 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -36,17 +36,18 @@
 | Oh My Ceria! 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | RTB Sukmaindera 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTB Aneka 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
-| SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| SCTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Indosiar 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| RCTI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MNC TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MOJI TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Max Stream 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -140,11 +141,11 @@
 | Sky Sport 5 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport 6 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport 7 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sport 8 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
+| Sky Sport 8 🇳🇿 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport 9 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Select 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro UHD 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| Astro Grandstand 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 504 |
+| Astro Grandstand 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC Chicago 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -201,7 +202,7 @@
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sports Plus 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sukan RTM 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Unifi Sports 1 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 400 |
+| Unifi Sports 1 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | CBS Sports Network 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | CBS Sports Golazo Network 🇺🇸 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -232,15 +233,15 @@
 | NPO 1 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NPO 2 🇳🇱 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | NPO 3 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TV2 Sport 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV2 Sport 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV2 Sport Premium 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV2 Sport Premium 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV3+ 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport 3 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport + 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| TV2 Sport 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport Premium 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport Premium 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV3+ 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport 3 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport + 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
 | Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -258,7 +259,7 @@
 | Sky Sport 5 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport 6 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport 7 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sport 8 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
+| Sky Sport 8 🇳🇿 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport 9 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Select 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -325,10 +326,6 @@
 | Fox Sports 2 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Deportes 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Sports 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Sports 2 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Sports 3 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Sports Premium 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 501 🇦🇺 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Fox Sports 502 🇦🇺 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Fox Sports 503 🇦🇺 | ❌ Offline | HLS (.m3u8) | Error 401 |
@@ -336,3 +333,7 @@
 | Fox Sports 505 🇦🇺 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Fox Sports 506 🇦🇺 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Fox Sports 507 🇦🇺 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| Fox Sports 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Fox Sports 2 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Fox Sports 3 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Fox Sports Premium 🇲🇽 | ✅ Online | HLS (.m3u8) | 200 OK |
