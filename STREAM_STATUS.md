@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-04-16 07:53:36 (SGT)
+**Last Checked:** 2026-04-16 13:55:16 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -13,18 +13,18 @@
 | TV1 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| TV3 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
+| TV3 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TV3 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV6 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| 8TV 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
-| TV9 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
+| 8TV 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV9 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TVS 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| Salam HD 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
+| Salam HD 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TV Okey 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| Inspirasi 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
-| Sensasi 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
-| Pesona 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
-| Degup 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
+| Inspirasi 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Sensasi 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Pesona 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Degup 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -42,7 +42,7 @@
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MNC TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| MNC TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 504 |
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -145,7 +145,7 @@
 | Sky Sport 9 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Select 🇳🇿 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro UHD 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| Astro Grandstand 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 504 |
+| Astro Grandstand 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC Chicago 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -202,7 +202,7 @@
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sports Plus 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sukan RTM 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Unifi Sports 1 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 400 |
+| Unifi Sports 1 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Golazo Network 🇺🇸 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -233,15 +233,15 @@
 | NPO 1 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NPO 2 🇳🇱 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | NPO 3 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TV2 Sport 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV2 Sport 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV2 Sport Premium 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV2 Sport Premium 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV3+ 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport 3 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport + 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| TV2 Sport 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport Premium 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport Premium 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV3+ 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport 3 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport + 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
 | Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
