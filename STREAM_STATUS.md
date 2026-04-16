@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-04-16 13:55:16 (SGT)
+**Last Checked:** 2026-04-16 19:21:38 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -42,7 +42,7 @@
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MNC TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 504 |
+| MNC TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -207,12 +207,12 @@
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Golazo Network 🇺🇸 | ✅ Online | DASH (.mpd) | 200 OK |
 | NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NFL Redzone 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NFL Redzone 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC Sports Bay Area 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | NBC Sports Now 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet 360 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sportsnet East 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sportsnet East 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sportsnet One 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet World 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -225,7 +225,7 @@
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Ziggo Sport 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
-| Ziggo Sport 2 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
+| Ziggo Sport 2 🇳🇱 | ❌ Offline | DASH (.mpd) | Error 503 |
 | Ziggo Sport 3 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
 | Ziggo Sport 4 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
 | Ziggo Sport 5 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
