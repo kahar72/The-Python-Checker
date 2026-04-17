@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-04-17 02:52:54 (SGT)
+**Last Checked:** 2026-04-17 07:53:40 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -85,11 +85,11 @@
 | TLC 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Travel Channel 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
-| A&E 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| A&E 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| National Geographic 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -119,7 +119,7 @@
 | Rock Entertainment 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hits Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Cartoon Network 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Boomerang 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DreamWorks 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Nick Jr. 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -192,7 +192,7 @@
 | TNT Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
-| TNT Sports 4 🇬🇧 | ❌ Offline | DASH (.mpd) | Error 504 |
+| TNT Sports 4 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports Rugby 🇬🇧 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
