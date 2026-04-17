@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-04-17 07:53:40 (SGT)
+**Last Checked:** 2026-04-17 13:26:42 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -88,7 +88,7 @@
 | A&E 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Animal Planet 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | National Geographic 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -168,8 +168,8 @@
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ZDF 🇩🇪 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| ORF 1 🇩🇪 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| ZDF 🇩🇪 | ✅ Online | DASH (.mpd) | 200 OK |
+| ORF 1 🇩🇪 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SPOTV 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPOTV 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -233,15 +233,15 @@
 | NPO 1 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NPO 2 🇳🇱 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | NPO 3 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TV2 Sport 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
-| TV2 Sport 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
-| TV2 Sport Premium 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
-| TV2 Sport Premium 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
-| TV3+ 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
-| V Sport 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
-| V Sport 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
-| V Sport 3 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
-| V Sport + 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| TV2 Sport 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| TV2 Sport Premium 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| TV2 Sport Premium 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| TV3+ 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| V Sport 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| V Sport 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| V Sport 3 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| V Sport + 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
