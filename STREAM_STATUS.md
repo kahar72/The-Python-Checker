@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-01 08:17:13 (SGT)
+**Last Checked:** 2026-05-01 13:25:43 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -268,10 +268,10 @@
 | ESPN 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 2 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 🇳🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| ESPN 2 🇳🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | ESPN 3 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 4 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 4 🇳🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | ESPN 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -344,7 +344,7 @@
 | Sportsnet 360 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet East 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sportsnet One 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sportsnet World 🇨🇦 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sportsnet World 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
