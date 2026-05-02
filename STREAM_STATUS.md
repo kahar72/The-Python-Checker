@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-01 19:17:07 (SGT)
+**Last Checked:** 2026-05-02 03:18:16 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -90,8 +90,8 @@
 | Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RT Documentary 🇷🇺 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Modern Marvels | ✅ Online | DASH (.mpd) | 200 OK |
-| Mythbusters | ✅ Online | DASH (.mpd) | 200 OK |
+| Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
+| Mythbusters 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Boo 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Showcase Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sony Max 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -160,7 +160,7 @@
 | NOW Sports PL 3 🇭🇰 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Fox TV 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | Arena Premium 1 🇷🇸 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Arena Premium 2 🇷🇸 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Arena Premium 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -209,8 +209,8 @@
 | Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 2 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 500 |
+| Sky Sports Ultra 1 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky Sports Ultra 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 24 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Arena 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Calcio 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -220,7 +220,7 @@
 | Sky Sport MotoGP 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Mix ??🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Mix 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport F1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports 16 LaLiga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -355,7 +355,7 @@
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 1 🇷🇸 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Arena Premium 2 🇷🇸 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Arena Premium 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 1 🇭🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 🇭🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
