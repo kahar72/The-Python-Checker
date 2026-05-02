@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-02 07:49:17 (SGT)
+**Last Checked:** 2026-05-02 13:19:49 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -151,7 +151,7 @@
 | UNIVERSO 🇺🇸 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Main Event UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Main Event UHD 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 458 |
 | TNT Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Premier League 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -161,20 +161,27 @@
 | Fox TV 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | Arena Premium 1 🇷🇸 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Arena Premium 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 1 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Sky Sport Bundesliga 2 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Sky Sport Bundesliga 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Sky Sport Bundesliga 4 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sky Sport Bundesliga 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 3 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 4 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Max 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports 24 Bundesliga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
+| DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
+| DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Max 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports 24 Bundesliga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 4 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports MAX 5 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 6 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -209,7 +216,7 @@
 | Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky Sports Ultra 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 24 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Arena 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -375,11 +382,11 @@
 | V Sport 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
 | V Sport 3 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
 | V Sport + 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
-| Eleven Sports 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 5 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 5 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Sport TV 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sport TV 2 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sport TV 3 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
