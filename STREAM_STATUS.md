@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-03 19:04:40 (SGT)
+**Last Checked:** 2026-05-04 03:33:58 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -151,7 +151,7 @@
 | UNIVERSO 🇺🇸 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Main Event UHD 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Sky Sports Main Event UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -164,9 +164,30 @@
 | DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| LaLiga TV 🇪🇸 | ✅ Online | DASH (.mpd) | 200 OK |
+| Premier Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
+| Premier Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| beIN Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Sky Sports 16 LaLiga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN Sports 1 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
+| DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TSN 1 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
+| Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Canal+ Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Bundesliga 1 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Sky Sport Bundesliga 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 2 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Bundesliga 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Bundesliga 4 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -231,7 +252,7 @@
 | Sky Sport F1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports 16 LaLiga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sports 24 Bundesliga 🇲🇽 | ❌ Offline | DASH (.mpd) | Error 400 |
+| Sky Sports 24 Bundesliga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports 1 (Live Only) 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports 2 (Live Only) 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports 3 (Live Only) 🇲🇽 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -396,7 +417,7 @@
 | Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Sport 4 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Canal+ Sport 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 5 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 4K 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -407,7 +428,7 @@
 | Polsat Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Polsat Sport Premium 2 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Polsat Sport Premium 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium PPV3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium PPV4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium PPV5 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
