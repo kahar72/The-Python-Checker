@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-04 03:33:58 (SGT)
+**Last Checked:** 2026-05-04 08:34:18 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -185,7 +185,7 @@
 | Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 1 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Bundesliga 2 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Bundesliga 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
@@ -199,11 +199,11 @@
 | DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ESPN 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Max 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports 24 Bundesliga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports MAX 4 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports MAX 4 🇫🇷 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports MAX 5 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 6 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 7 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -292,7 +292,7 @@
 | beIN Sports Xtra 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 3 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ESPN 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
