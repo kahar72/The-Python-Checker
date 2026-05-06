@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-06 14:22:35 (SGT)
+**Last Checked:** 2026-05-06 19:50:08 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -263,7 +263,7 @@
 | Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 1 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Sky Sports Ultra 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 24 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Arena 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -367,7 +367,7 @@
 | MLive 6 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | FIFA+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI Sport 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports Ultimate 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports Ultimate 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Premier Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Football 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -420,7 +420,7 @@
 | DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 4 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 4 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 5 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Sport TV 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -429,12 +429,12 @@
 | Sport TV 5 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Telemundo 🇺🇸 | ✅ Online | DASH (.mpd) | 200 OK |
 | UNIVERSO 🇺🇸 | ✅ Online | DASH (.mpd) | 200 OK |
-| Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Canal+ Sport 1 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Canal+ Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 5 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 1 4K 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 1 4K 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
