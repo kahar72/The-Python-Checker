@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-12 03:35:14 (SGT)
+**Last Checked:** 2026-05-12 08:45:06 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -181,7 +181,7 @@
 | TSN 1 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
-| Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Canal+ Sport 1 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Canal+ Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -190,7 +190,7 @@
 | Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky Sport Bundesliga 3 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 4 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -249,7 +249,7 @@
 | Arena Premium 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Polsat Sport Premium 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Polsat Sport Premium 2 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sky Sport 1 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 2 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 3 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -446,8 +446,8 @@
 | Polsat Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Polsat Sport Premium 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Polsat Sport Premium 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Polsat Sport Premium 1 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Polsat Sport Premium 2 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Polsat Sport Premium PPV3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium PPV4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium PPV5 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
