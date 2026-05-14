@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-14 08:42:10 (SGT)
+**Last Checked:** 2026-05-14 14:22:38 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -89,7 +89,7 @@
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History 2 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RT Documentary 🇷🇺 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -205,7 +205,7 @@
 | ESPN 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Max 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sports 24 Bundesliga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports MAX 4 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports MAX 4 🇫🇷 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports MAX 5 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 6 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 7 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -259,7 +259,7 @@
 | Sky Sport 7 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 8 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 9 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Select 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Select 🇳🇿 | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -297,7 +297,7 @@
 | beIN Sports 1 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports MAX 4 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports MAX 4 🇫🇷 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports MAX 5 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 6 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 7 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -336,7 +336,7 @@
 | ESPN 2 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | ESPN 3 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | ESPN+ 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Sports 1 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
+| Fox Sports 1 🇺🇲 | ❌ Offline | DASH (.mpd) | Error 591 |
 | Fox Sports 2 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Deportes 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
