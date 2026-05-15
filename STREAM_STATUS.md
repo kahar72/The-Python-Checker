@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-15 08:52:40 (SGT)
+**Last Checked:** 2026-05-15 14:13:53 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -50,7 +50,7 @@
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| MQTV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| MQTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Alwafa Tarim TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Rodja TV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al Jazeera English 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -163,9 +163,9 @@
 | Fox TV 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | Arena Premium 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 1 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| DAZN 2 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| DAZN 3 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 3 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | LaLiga TV 🇪🇸 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -175,9 +175,9 @@
 | beIN Sports 1 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
-| DAZN 1 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 3 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 3 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | TSN 1 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -198,9 +198,9 @@
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
-| DAZN 1 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 3 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 3 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | ESPN 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Max 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
@@ -278,8 +278,8 @@
 | Sky Sport MotoGP 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Mix 🇩🇪 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Sky Sport F1 🇩🇪 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky Sport Mix 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sky Sport F1 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports 16 LaLiga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports 24 Bundesliga 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -321,10 +321,10 @@
 | ESPN 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 🇳🇿 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | ESPN 2 🇳🇿 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| ESPN 🇳🇱 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ESPN 2 🇳🇱 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ESPN 3 🇳🇱 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ESPN 4 🇳🇱 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| ESPN 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 2 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 3 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 4 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -378,6 +378,8 @@
 | Astro Grandstand 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Arena 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Astro Arena Bola 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Arena Bola 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Sports Plus 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sukan RTM 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Premier Sports Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -412,25 +414,25 @@
 | Ziggo Sport 3 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
 | Ziggo Sport 4 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
 | Ziggo Sport 5 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
-| TV2 Sport 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV2 Sport 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV2 Sport Premium 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV2 Sport Premium 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| TV3+ 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport 1 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport 2 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport 3 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| V Sport + 🇳🇴 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| DAZN 1 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| TV2 Sport 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport Premium 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV2 Sport Premium 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV3+ 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport 1 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport 2 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport 3 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| V Sport + 🇳🇴 | ✅ Online | DASH (.mpd) | 200 OK |
+| DAZN 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 3 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| DAZN 4 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 3 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| DAZN 4 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DAZN 5 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sport TV 1 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Sport TV 2 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Sport TV 3 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Sport TV 4 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Sport TV 5 🇵🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sport TV 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sport TV 2 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sport TV 3 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sport TV 4 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sport TV 5 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
