@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-18 15:39:33 (SGT)
+**Last Checked:** 2026-05-18 19:47:45 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -89,7 +89,7 @@
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History 2 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 513 |
+| Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RT Documentary 🇷🇺 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -138,8 +138,8 @@
 | Sky Sports Premier League 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 407 |
-| Sky Sports Ultra 2 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky Sports Ultra 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -148,8 +148,8 @@
 | Sky Sport Austria 1 🇦🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Arena Premium 1 🇷🇸 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Arena Premium 2 🇷🇸 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| DAZN 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 513 |
-| DAZN 2 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 513 |
+| DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | LaLiga TV 🇪🇸 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -160,25 +160,25 @@
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premier Sports 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
-| DAZN 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 513 |
-| DAZN 2 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 513 |
+| DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sport Bundesliga 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 513 |
+| Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
 | Sky Sport Bundesliga 4 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Top Event 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 513 |
+| Sky Sport Top Event 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
-| DAZN 1 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 513 |
-| DAZN 2 🇵🇹 | ❌ Offline | HLS (.m3u8) | Error 513 |
+| DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports MAX 4 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports MAX 5 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -186,7 +186,7 @@
 | beIN Sports MAX 7 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 8 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Calcio 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Sky Sport UNO 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 513 |
+| Sky Sport UNO 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | TNT Sports 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 3 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -233,19 +233,19 @@
 | Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Action 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 407 |
-| Sky Sports Ultra 2 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky Sports Ultra 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 24 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Arena 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Calcio 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport F1 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Max 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Sky Sport UNO 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 513 |
+| Sky Sport UNO 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport MotoGP 🇮🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Top Event 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 513 |
+| Sky Sport Top Event 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Mix 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport F1 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Austria 1 🇦🇹 | ❌ Offline | HLS (.m3u8) | Error 404 |
@@ -262,7 +262,7 @@
 | beIN Sports 1 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports MAX 4 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports MAX 4 🇫🇷 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports MAX 5 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 6 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 7 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -315,8 +315,6 @@
 | Fox Sports 2 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Sports 3 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Sports Premium 🇲🇽 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Plus 🇲🇽 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Fox TV 🇲🇽 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | SPOTV 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPOTV 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -335,7 +333,7 @@
 | MLive 6 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | FIFA+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI Sport 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports Ultimate 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports Ultimate 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Premier Sports 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Football 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 513 |
