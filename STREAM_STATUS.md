@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-21 19:57:25 (SGT)
+**Last Checked:** 2026-05-22 03:58:32 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -82,9 +82,9 @@
 | Smithsonian Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Travel Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | A&E 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Outdoor Channel 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -121,7 +121,7 @@
 | Hits Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Just For Laughs Gags 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Cartoon Network 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Boomerang 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | DreamWorks 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Nick Jr. 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -239,7 +239,7 @@
 | beIN Sports 5 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 6 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 7 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 8 🇶🇦 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| beIN Sports 8 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 9 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
