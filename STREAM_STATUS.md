@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-23 03:35:23 (SGT)
+**Last Checked:** 2026-05-23 08:23:28 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -34,7 +34,7 @@
 | RTB Sukmaindera 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTB Aneka 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| Indosiar 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -182,10 +182,10 @@
 | TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 1 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky Sport Bundesliga 2 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
 | Sky Sport Bundesliga 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
-| Sky Sport Bundesliga 4 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 4 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Das Erste 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -239,7 +239,7 @@
 | beIN Sports 5 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 6 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 7 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 8 🇶🇦 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| beIN Sports 8 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 9 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
