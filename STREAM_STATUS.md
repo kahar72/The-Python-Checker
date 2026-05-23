@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-22 19:52:05 (SGT)
+**Last Checked:** 2026-05-23 03:35:23 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ANTV 🇮🇩 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -177,14 +177,14 @@
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | DAZN 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 3 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| DAZN 3 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 2 🇩🇪 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Sky Sport Bundesliga 3 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
 | Sky Sport Bundesliga 4 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -239,7 +239,7 @@
 | beIN Sports 5 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 6 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 7 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 8 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 8 🇶🇦 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | beIN Sports 9 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
