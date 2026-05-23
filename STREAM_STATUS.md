@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-23 08:23:28 (SGT)
+**Last Checked:** 2026-05-23 13:42:29 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -34,7 +34,7 @@
 | RTB Sukmaindera 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTB Aneka 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Indosiar 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
+| Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -42,7 +42,7 @@
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| MDTV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -132,6 +132,10 @@
 | TV Okey 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | CTV Toronto 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 4 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 5 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox NY 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -182,10 +186,10 @@
 | TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 1 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
-| Sky Sport Bundesliga 2 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
-| Sky Sport Bundesliga 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
-| Sky Sport Bundesliga 4 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky Sport Bundesliga 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 3 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 4 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Das Erste 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -289,6 +293,4 @@
 | Sportsnet East 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sportsnet One 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet World 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 4 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
-| TSN 5 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | ONE Friday Fights | ✅ Online | DASH (.mpd) | 200 OK |
