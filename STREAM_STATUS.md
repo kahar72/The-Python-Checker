@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-23 19:15:44 (SGT)
+**Last Checked:** 2026-05-24 03:57:14 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -51,7 +51,7 @@
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Alwafa Tarim TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Rodja TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Rodja TV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Al Jazeera English 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -149,7 +149,7 @@
 | TF1 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI Sport 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sport TV 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sport TV 2 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | VTV3 🇻🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ZDF 🇩🇪 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | ORF 1 🇩🇪 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -232,18 +232,18 @@
 | Arena Premium 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports USA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Espanol 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports Xtra 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports Xtra 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | beIN Sports 1 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 1 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 3 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 4 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 5 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 6 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 7 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 8 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 7 🇶🇦 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| beIN Sports 8 🇶🇦 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | beIN Sports 9 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports Xtra 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
