@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-24 08:33:13 (SGT)
+**Last Checked:** 2026-05-24 13:42:00 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -42,7 +42,7 @@
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| MDTV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -141,7 +141,7 @@
 | Fox Sports 1 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Universo 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Telemundo Boston 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| RTE Two 🇮🇪 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| RTE Two 🇮🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ITV 1 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | BBC One 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | BBC Two 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
@@ -149,7 +149,7 @@
 | TF1 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI Sport 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sport TV 1 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sport TV 2 🇵🇹 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sport TV 2 🇵🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | VTV3 🇻🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ZDF 🇩🇪 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | ORF 1 🇩🇪 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -202,10 +202,10 @@
 | Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 2 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| TNT Sports 3 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| TNT Sports 4 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
+| TNT Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
+| TNT Sports 3 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
+| TNT Sports 4 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Golazo Network 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Deportes 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -215,9 +215,9 @@
 | beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| TNT Sports 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 2 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| TNT Sports 3 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| TNT Sports 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
+| TNT Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
+| TNT Sports 3 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports+ 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 1 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
