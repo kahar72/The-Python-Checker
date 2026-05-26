@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-25 19:45:19 (SGT)
+**Last Checked:** 2026-05-26 03:54:26 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -247,7 +247,7 @@
 | ESPN 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 4 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 4 🇳🇱 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ESPN 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
