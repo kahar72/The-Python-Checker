@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-27 20:22:18 (SGT)
+**Last Checked:** 2026-05-28 03:56:28 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -22,8 +22,8 @@
 | TV9 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| Astro Ria 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 401 |
-| Astro Prima 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -93,7 +93,7 @@
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
-| Astro Boo 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| Astro Boo 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Showcase Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sony Max 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sony Max 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -140,7 +140,7 @@
 | Fox NY 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Fox Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Universo 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Telemundo Boston 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Telemundo Boston 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTE Two 🇮🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ITV 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | BBC One 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 406 |
@@ -245,9 +245,9 @@
 | ESPN 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 2 🇳🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| ESPN 3 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 4 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 2 🇳🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 3 🇳🇱 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| ESPN 4 🇳🇱 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ESPN 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 🇨🇴 | ✅ Online | HLS (.m3u8) | 200 OK |
