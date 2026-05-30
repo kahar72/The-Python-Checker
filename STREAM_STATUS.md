@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-30 03:43:18 (SGT)
+**Last Checked:** 2026-05-30 08:31:20 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -79,23 +79,23 @@
 | Asian Food Network 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Travel & Taste 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Smithsonian Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Smithsonian Channel 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Travel Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | A&E 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Discovery Science 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
-| Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky History 2 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Boo 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Showcase 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Showtime 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Sony Max 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sony Max 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sony Max 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Colors 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Zee Cinema 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -134,7 +134,7 @@
 | TSN 5 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | CTV Toronto 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Fox 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Fox Sports 1 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Universo 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Telemundo Boston 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -183,10 +183,10 @@
 | TNT Sports 2 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 4 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Football 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky Sports Mix 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky Sports+ 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky Sports Formula 1 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sky Sports Action 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Astro Arena 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -196,15 +196,15 @@
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 2 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Fox Soccer Plus 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
-| NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NFL Network 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 2 🇷🇸 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Arena Sport 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 4 🇷🇸 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Arena Sport 4 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 5 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 6 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
