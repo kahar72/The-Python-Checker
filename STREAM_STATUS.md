@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-05-31 13:51:27 (SGT)
+**Last Checked:** 2026-05-31 19:21:22 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -44,7 +44,7 @@
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 404 |
+| MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -54,7 +54,7 @@
 | MQTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Alwafa Tarim TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Rodja TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Jazeera English 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Al Jazeera English 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Channel News Asia 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TRT World 🇹🇷 | ❌ Offline | HLS (.m3u8) | Error 406 |
@@ -161,7 +161,7 @@
 | Sky Sports Main Event UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Premier League 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 458 |
 | beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -202,7 +202,7 @@
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Premium 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Premium 3 🇷🇸 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Arena Sport 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -210,20 +210,20 @@
 | Arena Sport 5 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 6 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Top Event 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 458 |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball 🇩🇪 | ✅ Online | DASH (.mpd) | 200 OK |
-| Eleven Sports 1 4K 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Sport 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Sport 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Sport 5 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Polsat Sport Premium 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Polsat Sport Premium 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 1 4K 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Eleven Sports 1 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Eleven Sports 2 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Eleven Sports 3 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Eleven Sports 4 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Canal+ Sport 1 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Canal+ Sport 2 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Canal+ Sport 3 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Canal+ Sport 4 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Canal+ Sport 5 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Polsat Sport Premium 1 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Polsat Sport Premium 2 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | ONE Friday Fights | ✅ Online | DASH (.mpd) | 200 OK |
