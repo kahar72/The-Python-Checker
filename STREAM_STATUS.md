@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-01 17:46:55 (SGT)
+**Last Checked:** 2026-06-01 21:36:22 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -129,7 +129,7 @@
 | Nickelodeon 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Cbeebies 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| TSN 1 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 4 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -206,7 +206,7 @@
 | Arena Sport 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 4 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 4 🇷🇸 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Arena Sport 5 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 6 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 406 |
