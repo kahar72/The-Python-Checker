@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-01 21:36:22 (SGT)
+**Last Checked:** 2026-06-02 04:17:37 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -206,7 +206,7 @@
 | Arena Sport 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 4 🇷🇸 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Arena Sport 4 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 5 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 6 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 406 |
