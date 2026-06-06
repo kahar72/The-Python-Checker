@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-06 03:49:37 (SGT)
+**Last Checked:** 2026-06-06 08:37:17 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -49,13 +49,13 @@
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Moji TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
+| Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| MQTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
+| MQTV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Alwafa Tarim TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Rodja TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -148,7 +148,7 @@
 | beIN Sports 1 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
-| M6 🇫🇷 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ITV 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | BBC One 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | BBC Two 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -204,7 +204,7 @@
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Action 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Arena 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sports Plus 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -226,8 +226,8 @@
 | Arena Sport 6 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 1 🇩🇪 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| DAZN 2 🇩🇪 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | SportDigital Fussball 🇩🇪 | ✅ Online | DASH (.mpd) | 200 OK |
 | Eleven Sports 1 4K 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
