@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-07 04:15:25 (SGT)
+**Last Checked:** 2026-06-07 09:18:27 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -9,7 +9,7 @@
 | Channel 8 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Channel U 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Karisma 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| TV1 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV1 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TV1 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TV3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
