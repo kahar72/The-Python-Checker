@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-08 04:20:09 (SGT)
+**Last Checked:** 2026-06-08 11:02:10 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -85,7 +85,7 @@
 | Asian Food Network 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Travel & Taste 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Smithsonian Channel 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Smithsonian Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Travel Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | A&E 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -94,14 +94,14 @@
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History 2 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Boo 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Showcase 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Showtime 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Sony Max 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sony Max 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sony Max 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Colors 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Zee Cinema 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -140,8 +140,8 @@
 | TSN 4 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 5 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | CTV Toronto 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 401 |
-| Fox 25 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Fox Sports 1 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Fox 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Fox Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Universo 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Telemundo LA 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports MAX 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -180,13 +180,13 @@
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 3 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 4 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 5 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 6 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 7 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 8 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 2 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 3 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 4 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 5 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 6 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 7 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 8 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports 9 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -218,7 +218,7 @@
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NFL Network 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
