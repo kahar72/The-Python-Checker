@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-08 11:02:10 (SGT)
+**Last Checked:** 2026-06-08 15:58:36 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -9,20 +9,20 @@
 | Channel 8 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Channel U 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Karisma 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| TV1 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TV1 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TV2 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV1 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| TV2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TV3 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Snap 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Apetito 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Aura 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fitrah 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TV6 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV6 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | 8TV 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TV9 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TV Okey 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| TV Okey 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Inspirasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Salam HD 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -39,7 +39,7 @@
 | Oh My Ceria! 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | RTB Sukmaindera 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTB Aneka 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
-| SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| SCTV 🇮🇩 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -49,7 +49,7 @@
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Moji TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
+| Moji TV 🇮🇩 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -61,7 +61,7 @@
 | Al Jazeera English 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TRT World 🇹🇷 | ❌ Offline | HLS (.m3u8) | Error 406 |
+| TRT World 🇹🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Metro TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CNN International 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | BBC News 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -126,7 +126,7 @@
 | Hits Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Just For Laughs Gags 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Cartoon Network 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Boomerang 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DreamWorks 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Nick Jr. 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -180,13 +180,13 @@
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 2 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| beIN Sports 3 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| beIN Sports 4 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| beIN Sports 5 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| beIN Sports 6 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| beIN Sports 7 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| beIN Sports 8 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 3 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 4 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 5 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 6 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 7 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 8 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 9 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -225,7 +225,7 @@
 | Arena Premium 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 3 🇷🇸 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Arena Sport 4 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 5 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 6 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
