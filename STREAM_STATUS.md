@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-09 03:51:09 (SGT)
+**Last Checked:** 2026-06-09 09:52:05 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -39,8 +39,8 @@
 | Oh My Ceria! 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | RTB Sukmaindera 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTB Aneka 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
-| SCTV 🇮🇩 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| Indosiar 🇮🇩 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| Indosiar 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -48,8 +48,8 @@
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ANTV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Moji TV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| Moji TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -220,26 +220,26 @@
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Premium 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Premium 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Premium 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 1 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 2 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 3 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 4 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 5 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 6 🇷🇸 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Premium 1 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Premium 2 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Premium 3 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Sport 1 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Sport 2 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Sport 3 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Sport 4 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Sport 5 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Sport 6 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball 🇩🇪 | ✅ Online | DASH (.mpd) | 200 OK |
-| Eleven Sports 1 4K 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Eleven Sports 1 4K 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Canal+ Sport 1 🇵🇱 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Canal+ Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
