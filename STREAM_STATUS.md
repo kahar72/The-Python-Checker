@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-10 15:42:51 (SGT)
+**Last Checked:** 2026-06-10 20:34:26 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -49,7 +49,7 @@
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Moji TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -185,7 +185,7 @@
 | beIN Sports 6 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 7 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 8 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 9 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 9 🇶🇦 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Hub Sports 1 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Sports 2 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Sports 3 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -199,14 +199,14 @@
 | SPL01 🇸🇬 | ✅ Online | DASH (.mpd) | 200 OK |
 | SPL02 🇸🇬 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports Ultimate 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 1 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| TNT Sports 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 3 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 4 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Formula 1 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Arena 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
