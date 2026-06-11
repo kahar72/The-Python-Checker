@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-11 04:16:24 (SGT)
+**Last Checked:** 2026-06-11 10:41:47 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -89,8 +89,10 @@
 | Travel Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | A&E 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Animal Planet 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -149,7 +151,7 @@
 | beIN Sports 2 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 3 🇫🇷 | ✅ Online | DASH (.mpd) | 200 OK |
 | M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ITV 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ITV 1 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | BBC One 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | BBC Two 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CazeTV 🇧🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -198,7 +200,7 @@
 | SPOTV 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPL01 🇸🇬 | ✅ Online | DASH (.mpd) | 200 OK |
 | SPL02 🇸🇬 | ✅ Online | DASH (.mpd) | 200 OK |
-| TNT Sports Ultimate 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports Ultimate 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 3 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
