@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-11 20:25:50 (SGT)
+**Last Checked:** 2026-06-12 04:17:58 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -39,17 +39,17 @@
 | Oh My Ceria! 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | RTB Sukmaindera 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | RTB Aneka 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| SCTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Indosiar 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ANTV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Moji TV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| Moji TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -145,8 +145,8 @@
 | Fox Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Universo 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Telemundo LA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports MAX 1 🇶🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
-| beIN Sports MAX 2 🇶🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| beIN Sports MAX 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports MAX 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TRT1 🇹🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 2 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -243,7 +243,7 @@
 | Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Sport 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Canal+ Sport 4 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Canal+ Sport 5 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
