@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-13 19:41:08 (SGT)
+**Last Checked:** 2026-06-14 04:24:11 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -49,7 +49,7 @@
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| Moji TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -94,14 +94,14 @@
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky History 2 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Boo 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Showcase 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Showtime 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Sony Max 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sony Max 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sony Max 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Colors 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Zee Cinema 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -135,7 +135,12 @@
 | UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD Fussball TV 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD NOW Sports CH616 🇭🇰 | ✅ Online | HLS (.m3u8) | 200 OK |
-| UHD Rai 1 🇮🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| UHD Rai 1 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| UHD M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Unifi World Cup 1 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Unifi World Cup 2 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Unifi World Cup 3 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Sukan RTM 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -143,12 +148,12 @@
 | TSN 4 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CTV Toronto 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 401 |
-| Fox 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Fox 25 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Fox Sports 1 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Universo 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Telemundo LA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports MAX 1 🇶🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
-| beIN Sports MAX 2 🇶🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| beIN Sports MAX 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports MAX 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TRT1 🇹🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 2 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -224,12 +229,11 @@
 | Astro Arena 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sports Plus 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Sukan RTM 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Soccer Plus 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NFL Network 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Premium 1 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Arena Premium 2 🇷🇸 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
