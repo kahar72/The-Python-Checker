@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-16 04:44:51 (SGT)
+**Last Checked:** 2026-06-16 11:17:40 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -22,12 +22,12 @@
 | 8TV 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TV9 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVS 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TV Okey 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| TV Okey 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Inspirasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Salam HD 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Ria 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -37,25 +37,25 @@
 | Drama Hotpot 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Lawak Sentral 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria! 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| RTB Sukmaindera 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| RTB Aneka 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| RTB Sukmaindera 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
+| RTB Aneka 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
+| SCTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Indosiar 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ANTV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| MDTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Moji TV 🇮🇩 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| MQTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
+| MQTV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Alwafa Tarim TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Rodja TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -94,14 +94,14 @@
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky History 2 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Boo 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Showcase 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Showtime 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Sony Max 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sony Max 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sony Max 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Colors 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Zee Cinema 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -134,7 +134,7 @@
 | Cbeebies 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD Fussball TV 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| UHD NOW Sports CH616 🇭🇰 | ✅ Online | HLS (.m3u8) | 200 OK |
+| UHD NOW Sports CH616 🇭🇰 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | UHD Rai 1 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Unifi World Cup 1 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -142,14 +142,14 @@
 | Unifi World Cup 3 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sukan RTM 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| RTB Go 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| RTB Go 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 4 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CTV Toronto 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Fox 25 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Fox Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Universo 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Telemundo LA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -237,7 +237,7 @@
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Sports 2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NFL Network 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 1 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -247,7 +247,7 @@
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball 🇩🇪 | ✅ Online | DASH (.mpd) | 200 OK |
-| Eleven Sports 1 4K 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 1 4K 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
