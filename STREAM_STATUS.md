@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-17 15:40:43 (SGT)
+**Last Checked:** 2026-06-17 20:16:49 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -132,15 +132,15 @@
 | Nick Jr. 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Nickelodeon 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Cbeebies 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| UHD FOX Sports 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD Fussball TV 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD NOW Sports CH616 🇭🇰 | ✅ Online | HLS (.m3u8) | 200 OK |
-| UHD Rai 1 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
+| UHD Rai 1 🇮🇹 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | UHD M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Aleph World Cup TV | ✅ Online | DASH (.mpd) | 200 OK |
-| Unifi World Cup 1 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| Unifi World Cup 2 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| Unifi World Cup 3 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Unifi World Cup 1 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Unifi World Cup 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Unifi World Cup 3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan RTM 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | RTB Go 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
@@ -150,9 +150,9 @@
 | TSN 4 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CTV Toronto 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Sports 🇺🇲 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Fox 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Fox Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| FOX Sports 🇺🇲 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| FOX 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| FOX Sports 1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Universo 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Telemundo LA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports MAX 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -244,14 +244,14 @@
 | Thmanyah 1 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Bundesliga 🇩🇪 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball 🇩🇪 | ✅ Online | DASH (.mpd) | 200 OK |
-| Eleven Sports 1 4K 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 1 4K 🇵🇱 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 2 🇵🇱 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
