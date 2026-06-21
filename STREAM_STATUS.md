@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-21 09:54:29 (SGT)
+**Last Checked:** 2026-06-21 14:18:02 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -37,8 +37,8 @@
 | Drama Hotpot 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Lawak Sentral 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria! 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| RTB Sukmaindera 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| RTB Aneka 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| RTB Sukmaindera 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
+| RTB Aneka 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Trans TV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
@@ -49,7 +49,7 @@
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Moji TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
+| Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -139,14 +139,14 @@
 | UHD Fussball TV 3 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD NOW Sports CH616 🇭🇰 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD Rai 1 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| UHD M6 🇫🇷 | ❌ Offline | HLS (.m3u8) | Error 409 |
-| VRT1 (Sporza) 🇳🇱 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| UHD M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
+| VRT1 (Sporza) 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
 | Unifi World Cup 1 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Unifi World Cup 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Unifi World Cup 3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan RTM 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| RTB Go 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| RTB Go 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
