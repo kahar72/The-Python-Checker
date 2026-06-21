@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-21 14:18:02 (SGT)
+**Last Checked:** 2026-06-21 19:47:30 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -27,9 +27,9 @@
 | Inspirasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Salam HD 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Citra 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -49,7 +49,7 @@
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Moji TV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| Moji TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -140,7 +140,7 @@
 | UHD NOW Sports CH616 🇭🇰 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD Rai 1 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
-| VRT1 (Sporza) 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
+| VRT1 (Sporza) 🇳🇱 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Unifi World Cup 1 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Unifi World Cup 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Unifi World Cup 3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -253,7 +253,7 @@
 | Thmanyah 1 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sport Bundesliga 🇩🇪 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
