@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-22 12:10:10 (SGT)
+**Last Checked:** 2026-06-22 20:51:54 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -10,11 +10,11 @@
 | Channel U 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Karisma 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TV1 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TV1 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| TV1 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TV2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TV3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TV3 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| TV3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Snap 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Apetito 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Aura 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -41,15 +41,14 @@
 | RTB Aneka 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Trans TV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Trans 7 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Trans 7 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| RTV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Moji TV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 401 |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -62,7 +61,7 @@
 | Channel News Asia 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TRT World 🇹🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Metro TV 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Metro TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CNN International 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | BBC News 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Russia Today 🇮🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -86,11 +85,11 @@
 | Travel & Taste 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Travel Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Travel Channel 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | A&E 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| World Fishing Network 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
-| Animal Planet 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Outdoor Channel 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | National Geographic 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
@@ -136,25 +135,25 @@
 | UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD Fussball TV 1 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | UHD Fussball TV 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| UHD Fussball TV 3 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| UHD Fussball TV 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | UHD NOW Sports CH616 🇭🇰 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | UHD Rai 1 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | VRT1 (Sporza) 🇳🇱 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Unifi World Cup 1 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Unifi World Cup 2 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Unifi World Cup 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Unifi World Cup 3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan RTM 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | RTB Go 🇧🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TSN 1 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | TSN 2 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | TSN 3 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | TSN 4 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
-| TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TSN 5 🇨🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | CTV Toronto 🇨🇦 | ✅ Online | DASH (.mpd) | 200 OK |
 | FOX WC2026 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
-| FS1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| FS1 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | FOX 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Universo 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Telemundo LA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -197,7 +196,7 @@
 | beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| beIN Sports USA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports USA 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports 1 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
