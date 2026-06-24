@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-24 09:36:29 (SGT)
+**Last Checked:** 2026-06-24 14:37:54 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -101,7 +101,7 @@
 | Astro Showcase 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Showtime 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro FAM Time 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Sony Max 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| Sony Max 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sony Max 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Colors 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Zee Cinema 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -133,13 +133,13 @@
 | Nickelodeon 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Cbeebies 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| UHD Fussball TV 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| UHD Fussball TV 1 🇩🇪 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | UHD Fussball TV 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD Fussball TV 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | UHD NOW Sports CH616 🇭🇰 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | UHD Rai 1 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
-| VRT1 (Sporza) 🇳🇱 | ✅ Online | DASH (.mpd) | 200 OK |
+| VRT1 (Sporza) 🇳🇱 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Unifi World Cup 1 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Unifi World Cup 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Unifi World Cup 3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -233,11 +233,11 @@
 | Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 1 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 2 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport 3 🇳🇿 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sport 3 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 4 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 5 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 6 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport 7 🇳🇿 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sport 7 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 9 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Arena 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
