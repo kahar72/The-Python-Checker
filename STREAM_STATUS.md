@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-25 09:27:36 (SGT)
+**Last Checked:** 2026-06-25 14:38:27 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -27,9 +27,9 @@
 | Inspirasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Salam HD 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Ria 🇲🇾 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Citra 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -189,14 +189,14 @@
 | Astro Grandstand 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ UHD 🇫🇷 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Canal+ UHD 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Foot 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Sport360 🇫🇷 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Canal+ Sport360 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Premier League 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| beIN Sports USA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports USA 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports 1 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -243,7 +243,7 @@
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena Bola 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Arena Bola 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Football 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Football 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Sports Plus 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
