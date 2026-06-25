@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-24 19:50:26 (SGT)
+**Last Checked:** 2026-06-25 03:54:39 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -135,7 +135,7 @@
 | UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD Fussball TV 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD Fussball TV 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
-| UHD Fussball TV 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| UHD Fussball TV 3 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD NOW Sports CH616 🇭🇰 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | UHD Rai 1 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -229,7 +229,7 @@
 | Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Formula 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Formula 1 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 1 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 2 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -269,6 +269,6 @@
 | Canal+ Sport 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 5 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Polsat Sport Premium 1 🇵🇱 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| Polsat Sport Premium 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Polsat Sport Premium 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ONE Friday Fights | ✅ Online | DASH (.mpd) | 200 OK |
