@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-26 09:33:01 (SGT)
+**Last Checked:** 2026-06-26 14:31:24 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -133,9 +133,9 @@
 | Nickelodeon 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Cbeebies 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| UHD Fussball TV 1 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 503 |
-| UHD Fussball TV 2 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 503 |
-| UHD Fussball TV 3 🇩🇪 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| UHD Fussball TV 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| UHD Fussball TV 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| UHD Fussball TV 3 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD NOW Sports CH616 🇭🇰 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | UHD Rai 1 🇮🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | UHD M6 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
