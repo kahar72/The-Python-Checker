@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-27 13:49:21 (SGT)
+**Last Checked:** 2026-06-27 19:24:51 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -166,7 +166,7 @@
 | Sky Sports Main Event UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports 1 UHD 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Sky Sports 2 UHD 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 401 |
-| Sky Sport Premier League 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Premier League 🇳🇿 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
