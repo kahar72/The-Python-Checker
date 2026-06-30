@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-06-29 20:02:21 (SGT)
+**Last Checked:** 2026-06-30 03:56:49 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -27,9 +27,9 @@
 | Inspirasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Salam HD 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria 🇲🇾 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Citra 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -48,9 +48,9 @@
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 404 |
+| MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Al Madinah Al Munawwarah 🇸🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -172,8 +172,8 @@
 | NBC New York 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Grandstand 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Grandstand 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sport Premier League 🇩🇪 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ UHD 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Foot 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -187,7 +187,7 @@
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 2 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 3 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 4 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 5 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -228,11 +228,12 @@
 | Astro Arena 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena Bola 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Arena Bola 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Football 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Arena Bola 2 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Astro Football 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Sports Plus 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| CBS Sports Golazo Network 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
