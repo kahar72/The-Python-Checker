@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-02 09:17:13 (SGT)
+**Last Checked:** 2026-07-02 14:08:33 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -50,7 +50,7 @@
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Al Madinah Al Munawwarah 🇸🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -133,10 +133,7 @@
 | Cbeebies 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 4K 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Unifi World Cup 1 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Unifi World Cup 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Unifi World Cup 3 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sukan RTM 🇲🇾 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sukan RTM 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -151,7 +148,6 @@
 | beIN Sports 2 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ITV 1 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | BBC One 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| BBC Two 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 2 UHD 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -189,11 +185,11 @@
 | beIN Sports 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 3 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 4 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 5 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 6 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 7 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 8 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 9 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 5 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 6 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 7 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 8 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 9 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Hub Sports 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
