@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-03 19:26:54 (SGT)
+**Last Checked:** 2026-07-04 03:27:23 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -50,7 +50,7 @@
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah 🇸🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -92,7 +92,7 @@
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky History 2 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -140,10 +140,10 @@
 | TSN 3 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 4 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| AlephArena World Cup TV | ✅ Online | DASH (.mpd) | 200 OK |
+| AlephArena World Cup TV | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | FOX Sports 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| FOX 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| FOX 25 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports MAX 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports MAX 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -234,19 +234,19 @@
 | CBS Sports Golazo Network 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NFL Network 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 1 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 🇩🇪 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sport Bundesliga 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball 🇩🇪 | ✅ Online | DASH (.mpd) | 200 OK |
 | Eleven Sports 1 4K 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 2 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 2 🇵🇱 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Eleven Sports 3 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport 1 🇵🇱 | ✅ Online | HLS (.m3u8) | 200 OK |
