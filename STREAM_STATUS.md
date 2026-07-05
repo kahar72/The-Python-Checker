@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-05 13:46:17 (SGT)
+**Last Checked:** 2026-07-05 19:22:07 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -27,9 +27,9 @@
 | Inspirasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Salam HD 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Citra 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -50,7 +50,7 @@
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah 🇸🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
