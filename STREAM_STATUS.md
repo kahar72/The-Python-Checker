@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-08 02:56:45 (SGT)
+**Last Checked:** 2026-07-08 08:33:31 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -50,7 +50,7 @@
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah 🇸🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -172,7 +172,7 @@
 | Astro Grandstand 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League 🇩🇪 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 🇦🇹 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ UHD 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Canal+ UHD 🇫🇷 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Canal+ Foot 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport360 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Premier League 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
