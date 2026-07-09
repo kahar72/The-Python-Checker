@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-08 19:36:44 (SGT)
+**Last Checked:** 2026-07-09 03:35:32 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -24,9 +24,9 @@
 | TV9 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVS 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Inspirasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Salam HD 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Inspirasi 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 406 |
+| Salam HD 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 406 |
+| Sensasi 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -175,11 +175,11 @@
 | Canal+ UHD 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Foot 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Canal+ Sport360 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Canal+ Premier League 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Canal+ Premier League 🇫🇷 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| beIN Sports USA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports USA 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports 1 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -209,7 +209,7 @@
 | TNT Sports 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 3 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 4 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Football 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 469 |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
