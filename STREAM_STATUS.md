@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-09 03:35:32 (SGT)
+**Last Checked:** 2026-07-09 09:50:14 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -147,7 +147,7 @@
 | beIN Sports MAX 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports MAX 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 2 🇫🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 2 🇫🇷 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | ITV 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | BBC One 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -179,19 +179,19 @@
 | beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| beIN Sports USA 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports USA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 3 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 4 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 5 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 6 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 7 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 8 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 9 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 1 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 2 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 3 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 4 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 5 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 6 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 7 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 8 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 9 🇶🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Hub Sports 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
