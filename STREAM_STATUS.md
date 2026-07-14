@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-14 13:50:18 (SGT)
+**Last Checked:** 2026-07-14 19:23:18 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -48,13 +48,13 @@
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Al Madinah Al Munawwarah 🇸🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Alwafa Tarim TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Rodja TV 🇮🇩 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Rodja TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -71,12 +71,12 @@
 | France 24 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | ABC News Live 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Love Nature 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| History 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Discovery Channel 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| History 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Discovery Channel 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Discovery Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Curiosity Now 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
-| Crime & Investigation 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| BBC Earth 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Crime & Investigation 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| BBC Earth 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | HGTV 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TravelXP 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Asian Food Network 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -90,7 +90,7 @@
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky History 2 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -140,8 +140,8 @@
 | TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | FOX Sports 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| FOX 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports MAX 1 🇶🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| FOX 25 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports MAX 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports MAX 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ITV 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | BBC One 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -214,7 +214,7 @@
 | CBS Sports Golazo Network 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NFL Network 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 1 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
