@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-16 13:59:42 (SGT)
+**Last Checked:** 2026-07-16 19:15:53 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@
 | Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| Astro Citra 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sensasi 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Filem Mantap 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -71,24 +71,24 @@
 | France 24 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | ABC News Live 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Love Nature 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| History 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| History 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
 | Discovery Channel 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Discovery Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Curiosity Now 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
-| Crime & Investigation 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
+| Crime & Investigation 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
 | BBC Earth 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | HGTV 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TravelXP 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Asian Food Network 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Travel & Taste 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Smithsonian Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Travel Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Outdoor Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Smithsonian Channel 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Travel Channel 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Outdoor Channel 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | World Fishing Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| National Geographic 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Nat Geo Wild 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -159,7 +159,7 @@
 | Sky Sports Main Event UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports 1 UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports 2 UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Premier League 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Premier League 🇳🇿 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -210,7 +210,7 @@
 | Astro Football 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Sports Plus 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| CBS Sports Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| CBS Sports Network 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | CBS Sports Golazo Network 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
