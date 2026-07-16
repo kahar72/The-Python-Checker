@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-16 02:49:17 (SGT)
+**Last Checked:** 2026-07-16 08:18:25 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -62,7 +62,7 @@
 | Metro TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CNN International 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | BBC News 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Russia Today 🇮🇳 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Russia Today 🇮🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky News 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | CGTN 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | NHK World 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
