@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-17 02:51:43 (SGT)
+**Last Checked:** 2026-07-17 08:14:07 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -71,11 +71,11 @@
 | France 24 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | ABC News Live 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Love Nature 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| History 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
+| History 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Discovery Channel 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Discovery Asia 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Curiosity Now 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
-| Crime & Investigation 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 500 |
+| Crime & Investigation 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | BBC Earth 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | HGTV 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TravelXP 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
