@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-19 03:14:44 (SGT)
+**Last Checked:** 2026-07-19 08:23:16 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -37,18 +37,18 @@
 | Oh My Ceria! 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | RTB Sukmaindera 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | RTB Aneka 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
-| Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| SCTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Indosiar 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TVRI 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RCTI 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ANTV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| MDTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah 🇸🇦 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
