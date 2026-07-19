@@ -1,14 +1,14 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-19 13:22:59 (SGT)
+**Last Checked:** 2026-07-19 19:10:23 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
-| Channel 5 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Suria 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Vasantham 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Channel 8 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Channel U 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Karisma 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Suria 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Vasantham 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Channel 8 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Channel U 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Karisma 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TV1 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV1 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TV2 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -28,8 +28,8 @@
 | Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Warna 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Sensasi 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Astro Warna 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Astro Sensasi 🇲🇾 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Drama Hebat 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Drama Hotpot 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -37,18 +37,18 @@
 | Oh My Ceria! 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | RTB Sukmaindera 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | RTB Aneka 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| SCTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Indosiar 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TVRI 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RCTI 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ANTV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| MDTV 🇮🇩 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Al Madinah Al Munawwarah 🇸🇦 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -56,19 +56,19 @@
 | Alwafa Tarim TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Rodja TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Channel News Asia 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Channel News Asia 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TRT World 🇹🇷 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Metro TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| CNN International 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| BBC News 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| CNN International 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| BBC News 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Russia Today 🇮🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky News 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| CGTN 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| NHK World 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| ABC Australia 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| DW English 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| France 24 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Sky News 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| CGTN 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| NHK World 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| ABC Australia 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| DW English 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| France 24 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | ABC News Live 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Love Nature 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | History 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -77,8 +77,8 @@
 | Curiosity Now 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Crime & Investigation 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | BBC Earth 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| HGTV 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TravelXP 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| HGTV 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| TravelXP 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Asian Food Network 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Travel & Taste 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -90,7 +90,7 @@
 | National Geographic 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky History 2 🇬🇧 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CGTN Documentary 🇨🇳 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -99,7 +99,7 @@
 | Astro Showtime 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro FAM Time 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sony Max 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sony Max 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Sony Max 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Colors 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Zee Cinema 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | iQIYI 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -109,29 +109,29 @@
 | TVN 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVN Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | K-Plus 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| HBO 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| HBO Hits 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| HBO Family 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| HBO Signature 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| HBO 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| HBO Hits 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| HBO Family 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| HBO Signature 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | AXN 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| CineMax 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| CineMax 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Lifetime 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Rock Entertainment 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Rock Entertainment 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Rock Xtream 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Rock Action 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hits Movies 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Just For Laughs Gags 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Cartoon Network 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Cartoon Network 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Boomerang 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DreamWorks 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| DreamWorks 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nick Jr. 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Nickelodeon 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Cbeebies 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Nick Jr. 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Nickelodeon 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Cbeebies 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 4K 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan RTM 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Channel 5 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 3 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -139,20 +139,20 @@
 | TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | FOX Sports 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | FS1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| FOX 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| FOX 25 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports MAX 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports MAX 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ITV 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
 | BBC One 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 1 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 2 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 2 UHD 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 3 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 4 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 5 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 6 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 7 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 8 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Hub Premier 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 2 UHD 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 4 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 6 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 7 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 8 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Premier League 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 2 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Grandstand 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -163,24 +163,24 @@
 | Sky Sports 1 UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports 2 UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NBC New York 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| beIN Sports 2 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| beIN Sports 3 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| beIN Sports USA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NBC New York 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 401 |
+| beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| beIN Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| beIN Sports USA 🇺🇲 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | beIN Sports 1 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
-| Hub Sports 1 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Sports 2 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Sports 3 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Sports 4 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Sports 5 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Sports 6 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Sports 7 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Sports 8 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| SPOTV 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| SPOTV 2 🇸🇬 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Hub Sports 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Sports 4 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Sports 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Sports 6 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Sports 7 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Sports 8 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| SPOTV 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
+| SPOTV 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPL01 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPL02 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TNT Sports Ultimate 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -188,11 +188,11 @@
 | TNT Sports 2 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 3 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 4 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Football 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Football 🇬🇧 | ❌ Offline | HLS (.m3u8) | Error 469 |
 | Sky Sports Mix 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Action 🇬🇧 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Action 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 1 UHD 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 1 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 2 🇳🇿 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -213,7 +213,7 @@
 | CBS Sports Golazo Network 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Soccer Plus 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NFL Network 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NFL Network 🇺🇲 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RedBull TV 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 1 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
