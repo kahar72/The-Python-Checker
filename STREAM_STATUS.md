@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-20 03:27:59 (SGT)
+**Last Checked:** 2026-07-20 09:19:38 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -23,8 +23,8 @@
 | TVS 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Inspirasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Salam HD 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Salam HD 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sensasi 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -44,11 +44,11 @@
 | TVRI 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RCTI 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ANTV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah 🇸🇦 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Al-Hijrah 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -71,7 +71,7 @@
 | France 24 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | ABC News Live 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Love Nature 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| History 🇲🇾 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| History 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Channel 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Asia 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Curiosity Now 🇺🇲 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -163,11 +163,11 @@
 | Sky Sports 1 UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports 2 UHD 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| NBC New York 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| NBC New York 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports 3 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| beIN Sports USA 🇺🇲 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| beIN Sports USA 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 🇦🇺 | ✅ Online | DASH (.mpd) | 200 OK |
