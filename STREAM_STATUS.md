@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-20 09:19:38 (SGT)
+**Last Checked:** 2026-07-20 14:11:53 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -23,8 +23,8 @@
 | TVS 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Inspirasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Salam HD 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Sensasi 🇲🇾 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Salam HD 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sensasi 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Ria 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -35,18 +35,16 @@
 | Drama Hotpot 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Lawak Sentral 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria! 🇲🇾 | ✅ Online | DASH (.mpd) | 200 OK |
-| RTB Sukmaindera 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| RTB Aneka 🇧🇳 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| SCTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Indosiar 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| SCTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
+| Indosiar 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Trans TV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans 7 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TVRI 🇮🇩 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RCTI 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNC TV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ANTV 🇮🇩 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| ANTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
 | RTV 🇮🇩 | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV 🇮🇩 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| MDTV 🇮🇩 | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah 🇸🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis 🇲🇾 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -128,22 +126,6 @@
 | Nick Jr. 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Nickelodeon 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Cbeebies 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| UHD TSN 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 4K 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sukan RTM 🇲🇾 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Channel 5 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
-| TSN 1 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 2 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 3 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 4 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 5 🇨🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| FOX Sports 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| FS1 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| FOX 25 🇺🇲 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports MAX 1 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports MAX 2 🇶🇦 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ITV 1 🇬🇧 | ✅ Online | DASH (.mpd) | 200 OK |
-| BBC One 🇬🇧 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 2 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 2 UHD 🇸🇬 | ❌ Offline | DASH (.mpd) | Error 404 |
