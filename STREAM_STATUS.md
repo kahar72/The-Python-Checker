@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-22 08:33:05 (SGT)
+**Last Checked:** 2026-07-22 14:02:10 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@
 | Sensasi | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -122,7 +122,7 @@
 | DreamWorks | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nick Jr. | ❌ Offline | DASH (.mpd) | Error 404 |
-| Nickelodeon Asia | ❌ Offline | DASH (.mpd) | Error 404 |
+| Nickelodeon | ❌ Offline | DASH (.mpd) | Error 404 |
 | Cbeebies | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 1 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 2 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -131,8 +131,6 @@
 | Hub Premier 4 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 5 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 6 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Premier 7 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Premier 8 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -148,9 +146,9 @@
 | beIN SPORTS 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN SPORTS 3 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 1 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 3 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -161,8 +159,6 @@
 | Hub Sports 8 | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPOTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPOTV2 | ❌ Offline | DASH (.mpd) | Error 404 |
-| SPL01 | ❌ Offline | DASH (.mpd) | Error 404 |
-| SPL02 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
