@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-22 14:02:10 (SGT)
+**Last Checked:** 2026-07-22 19:24:50 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -46,7 +46,7 @@
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Al Madinah Al Munawwarah | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
@@ -80,7 +80,7 @@
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| Outdoor Channel | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -141,11 +141,11 @@
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
-| NBC New York | ✅ Online | HLS (.m3u8) | 200 OK |
+| NBC New York | ❌ Offline | HLS (.m3u8) | Error 503 |
 | beIN SPORTS | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN SPORTS 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN SPORTS 3 | ❌ Offline | DASH (.mpd) | Error 404 |
-| beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports USA | ❌ Offline | HLS (.m3u8) | Error 503 |
 | beIN Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -192,7 +192,7 @@
 | FS1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | FS2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
-| NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
+| NFL Network | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | ONE Friday Fights | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 1 | ✅ Online | HLS (.m3u8) | 200 OK |
