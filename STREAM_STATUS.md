@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-23 08:34:22 (SGT)
+**Last Checked:** 2026-07-23 14:07:32 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@
 | Sensasi | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -34,8 +34,8 @@
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ✅ Online | DASH (.mpd) | 200 OK |
-| Trans TV | ❌ Offline | HLS (.m3u8) | Error 503 |
-| Trans7 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNCTV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
@@ -49,7 +49,7 @@
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Rodja TV | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -65,8 +65,8 @@
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | History | ✅ Online | HLS (.m3u8) | 200 OK |
-| Discovery Channel | ❌ Offline | HLS (.m3u8) | Error 503 |
-| Discovery Asia | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Discovery Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| Discovery Asia | ✅ Online | HLS (.m3u8) | 200 OK |
 | Curiosity Now | ✅ Online | DASH (.mpd) | 200 OK |
 | Crime & Investigation | ✅ Online | DASH (.mpd) | 200 OK |
 | BBC Earth | ❌ Offline | HLS (.m3u8) | Error 503 |
@@ -165,7 +165,7 @@
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Action | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 1 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
