@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-24 08:30:57 (SGT)
+**Last Checked:** 2026-07-24 13:50:13 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -64,12 +64,12 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| History | ✅ Online | HLS (.m3u8) | 200 OK |
-| Discovery Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Discovery Asia | ✅ Online | HLS (.m3u8) | 200 OK |
+| History | ❌ Offline | DASH (.mpd) | Error 404 |
+| Discovery Channel | ❌ Offline | DASH (.mpd) | Error 404 |
+| Discovery Asia | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Curiosity Now | ✅ Online | DASH (.mpd) | 200 OK |
-| Crime & Investigation | ✅ Online | DASH (.mpd) | 200 OK |
-| BBC Earth | ✅ Online | HLS (.m3u8) | 200 OK |
+| Crime & Investigation | ❌ Offline | DASH (.mpd) | Error 404 |
+| BBC Earth | ❌ Offline | DASH (.mpd) | Error 404 |
 | HGTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | TravelXP | ❌ Offline | DASH (.mpd) | Error 404 |
 | Asian Food Network | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -156,6 +156,14 @@
 | Hub Sports 8 | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPOTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPOTV2 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Sukan RTM | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Astro Arena 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Astro Arena Bola | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Arena Bola 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Football | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -175,14 +183,6 @@
 | Sky Sport 6 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sukan RTM | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Arena 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Arena Bola | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Arena Bola 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Football | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FOX Sports (Live Only) | ❌ Offline | HLS (.m3u8) | Error 503 |
