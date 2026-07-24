@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-23 19:22:08 (SGT)
+**Last Checked:** 2026-07-24 02:53:13 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -22,9 +22,9 @@
 | Inspirasi | ✅ Online | HLS (.m3u8) | 200 OK |
 | Salam | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -43,13 +43,13 @@
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | c | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Rodja TV | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -64,12 +64,12 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| History | ✅ Online | HLS (.m3u8) | 200 OK |
-| Discovery Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Discovery Asia | ✅ Online | HLS (.m3u8) | 200 OK |
+| History | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Discovery Channel | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Discovery Asia | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Curiosity Now | ✅ Online | DASH (.mpd) | 200 OK |
 | Crime & Investigation | ✅ Online | DASH (.mpd) | 200 OK |
-| BBC Earth | ✅ Online | HLS (.m3u8) | 200 OK |
+| BBC Earth | ❌ Offline | HLS (.m3u8) | Error 503 |
 | HGTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | TravelXP | ❌ Offline | DASH (.mpd) | Error 404 |
 | Asian Food Network | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -129,7 +129,7 @@
 | Hub Premier 5 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 6 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Premier League 2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -180,7 +180,7 @@
 | Astro Arena 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena Bola | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Arena Bola 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Football | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Football | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
