@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-24 13:50:13 (SGT)
+**Last Checked:** 2026-07-24 19:27:52 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -47,7 +47,7 @@
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
-| MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| MQTV | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -143,9 +143,18 @@
 | beIN SPORTS 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN SPORTS 3 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 5 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 6 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 7 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 8 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 9 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports EN 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports EN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 1 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 3 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -165,7 +174,7 @@
 | Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
