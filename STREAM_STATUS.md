@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-26 08:30:06 (SGT)
+**Last Checked:** 2026-07-26 13:35:29 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -43,7 +43,7 @@
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | c | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Al Madinah Al Munawwarah | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
@@ -79,11 +79,11 @@
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky History2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters | ✅ Online | DASH (.mpd) | 200 OK |
@@ -143,7 +143,6 @@
 | beIN SPORTS 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN SPORTS 3 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -170,11 +169,11 @@
 | Astro Arena 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena Bola | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Arena Bola 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Football | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Football | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
