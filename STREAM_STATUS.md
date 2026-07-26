@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-26 13:35:29 (SGT)
+**Last Checked:** 2026-07-26 19:15:16 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@
 | Lawak Sentral | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
-| Indosiar | ✅ Online | DASH (.mpd) | 200 OK |
+| Indosiar | ❌ Offline | DASH (.mpd) | Error 525 |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -43,7 +43,7 @@
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | c | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
@@ -79,11 +79,11 @@
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky History2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters | ✅ Online | DASH (.mpd) | 200 OK |
@@ -143,17 +143,9 @@
 | beIN SPORTS 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN SPORTS 3 | ❌ Offline | DASH (.mpd) | Error 404 |
 | beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 5 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 6 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 7 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 8 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 9 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports EN 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports EN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 1 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 3 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -182,6 +174,8 @@
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
+| Premier Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Premier Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 1 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
