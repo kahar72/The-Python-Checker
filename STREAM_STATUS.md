@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-27 19:38:15 (SGT)
+**Last Checked:** 2026-07-28 02:44:54 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -34,7 +34,7 @@
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ✅ Online | DASH (.mpd) | 200 OK |
-| Trans TV | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
@@ -150,11 +150,11 @@
 | beIN Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Sports 1 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 2 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 3 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 4 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 5 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Sports 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Hub Sports 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Hub Sports 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Hub Sports 4 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Hub Sports 5 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Hub Sports 6 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 7 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 8 | ❌ Offline | DASH (.mpd) | Error 404 |
