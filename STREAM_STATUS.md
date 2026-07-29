@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-29 14:16:35 (SGT)
+**Last Checked:** 2026-07-29 19:20:32 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -43,7 +43,7 @@
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
+| Al Madinah Al Munawwarah | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
@@ -162,13 +162,13 @@
 | Hub Premier 4 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 5 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 6 | ❌ Offline | DASH (.mpd) | Error 404 |
-| beIN SPORTS | ❌ Offline | DASH (.mpd) | Error 404 |
-| beIN SPORTS 2 | ❌ Offline | DASH (.mpd) | Error 404 |
-| beIN SPORTS 3 | ❌ Offline | DASH (.mpd) | Error 404 |
+| beIN SPORTS | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports 3 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 1 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 3 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -177,8 +177,8 @@
 | Hub Sports 6 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 7 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 8 | ❌ Offline | DASH (.mpd) | Error 404 |
-| SPOTV | ❌ Offline | DASH (.mpd) | Error 404 |
-| SPOTV2 | ❌ Offline | DASH (.mpd) | Error 404 |
+| SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan RTM | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
