@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-30 08:31:05 (SGT)
+**Last Checked:** 2026-07-30 14:08:35 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -43,13 +43,13 @@
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
+| Al Madinah Al Munawwarah | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Rodja TV | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
