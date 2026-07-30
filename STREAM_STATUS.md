@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-30 02:36:30 (SGT)
+**Last Checked:** 2026-07-30 08:31:05 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -145,8 +145,9 @@
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Premier League | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Astro Premier League 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Astro Premier League 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -164,7 +165,7 @@
 | Hub Premier 6 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -179,12 +180,12 @@
 | Hub Sports 8 | ❌ Offline | DASH (.mpd) | Error 404 |
 | SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sukan RTM | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena Bola | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Arena Bola 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Football | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Astro Arena Bola 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Astro Football | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
