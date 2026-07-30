@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-29 19:20:32 (SGT)
+**Last Checked:** 2026-07-30 02:36:30 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -43,7 +43,7 @@
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
@@ -155,13 +155,13 @@
 | Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 1 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Premier 2 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 (4K) | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Premier 3 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 4 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Premier 5 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Premier 6 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 5 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 6 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 | ✅ Online | HLS (.m3u8) | 200 OK |
