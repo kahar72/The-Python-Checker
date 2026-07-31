@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-31 14:13:45 (SGT)
+**Last Checked:** 2026-07-31 19:37:44 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -75,7 +75,7 @@
 | Asian Food Network | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| Smithsonian Channel | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -157,14 +157,14 @@
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 2 | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 (4K) | ❌ Offline | HLS (.m3u8) | Error 405 |
-| Hub Premier 3 | ❌ Offline | HLS (.m3u8) | Error 458 |
-| Hub Premier 4 | ❌ Offline | HLS (.m3u8) | Error 458 |
-| Hub Premier 5 | ❌ Offline | HLS (.m3u8) | Error 458 |
-| Hub Premier 6 | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Hub Premier 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 5 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 6 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
