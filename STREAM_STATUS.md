@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-07-30 19:36:31 (SGT)
+**Last Checked:** 2026-07-31 03:17:46 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -169,7 +169,7 @@
 | beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports 3 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 1 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 2 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 3 | ❌ Offline | DASH (.mpd) | Error 404 |
