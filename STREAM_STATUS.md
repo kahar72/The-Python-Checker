@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-01 03:16:09 (SGT)
+**Last Checked:** 2026-08-01 08:24:46 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Alwafa Tarim TV | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -75,7 +75,7 @@
 | Asian Food Network | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Smithsonian Channel | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -128,7 +128,7 @@
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -144,7 +144,7 @@
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
-| NBC New York | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| NBC New York | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Premier League 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Premier League 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -166,7 +166,7 @@
 | beIN SPORTS | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| beIN Sports USA | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -178,7 +178,7 @@
 | Hub Sports 6 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 7 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 8 | ❌ Offline | DASH (.mpd) | Error 404 |
-| SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| SPOTV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -193,7 +193,7 @@
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports F1 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
