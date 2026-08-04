@@ -1,14 +1,14 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-04 02:47:17 (SGT)
+**Last Checked:** 2026-08-04 08:41:21 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
-| Channel 5 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Suria | ❌ Offline | DASH (.mpd) | Error 404 |
-| Vasantham | ❌ Offline | DASH (.mpd) | Error 404 |
-| Channel 8 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Channel U | ❌ Offline | DASH (.mpd) | Error 404 |
-| Karisma | ❌ Offline | DASH (.mpd) | Error 404 |
+| Channel 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Suria | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Vasantham | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Channel 8 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Channel U | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Karisma | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV3 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -24,7 +24,7 @@
 | Sensasi | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sensasi | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -77,7 +77,7 @@
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel | ❌ Offline | HLS (.m3u8) | Error 500 |
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| Outdoor Channel | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -159,18 +159,18 @@
 | beIN SPORTS | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports USA | ❌ Offline | HLS (.m3u8) | Error 500 |
 | beIN Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Sports 1 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 2 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 3 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 4 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 5 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 6 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 7 | ❌ Offline | DASH (.mpd) | Error 404 |
-| Hub Sports 8 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Sports 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Hub Sports 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Hub Sports 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Hub Sports 4 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Hub Sports 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Hub Sports 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Hub Sports 7 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Hub Sports 8 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
