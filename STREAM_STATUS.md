@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-05 02:44:38 (SGT)
+**Last Checked:** 2026-08-05 08:39:49 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@
 | Sensasi | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -53,7 +53,7 @@
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Metro TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Metro TV | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TRT World | ✅ Online | HLS (.m3u8) | 200 OK |
 | CNN | ❌ Offline | DASH (.mpd) | Error 404 |
 | BBC News | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -75,7 +75,7 @@
 | Asian Food Network | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Smithsonian Channel | ❌ Offline | HLS (.m3u8) | Error 500 |
+| Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -137,10 +137,10 @@
 | Sky Sport 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 6 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 7 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
-| NBC New York | ❌ Offline | HLS (.m3u8) | Error 500 |
+| NBC New York | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Premier League 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -165,7 +165,7 @@
 | beIN Sports 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| SPOTV2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
