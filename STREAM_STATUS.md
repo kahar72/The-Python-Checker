@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-06 14:18:45 (SGT)
+**Last Checked:** 2026-08-07 00:04:09 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,9 +25,9 @@
 | Inspirasi | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Salam | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sensasi | ❌ Offline | HLS (.m3u8) | Error 406 |
-| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sensasi | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -84,7 +84,7 @@
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
+| Nat Geo Wild | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -158,7 +158,7 @@
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 4 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Hub Premier 4 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Hub Premier 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 6 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 4K | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -178,8 +178,8 @@
 | beIN Sports 1 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
-| SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| SPOTV | ❌ Offline | HLS (.m3u8) | Error 503 |
+| SPOTV2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -210,7 +210,7 @@
 | TSN 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TSN 4 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TSN 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
