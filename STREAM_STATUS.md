@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-09 12:55:36 (SGT)
+**Last Checked:** 2026-08-09 18:44:34 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -79,7 +79,7 @@
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| Travel Channel | ❌ Offline | HLS (.m3u8) | Error 500 |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -147,9 +147,9 @@
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
-| NBC New York | ❌ Offline | HLS (.m3u8) | Error 500 |
-| Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| NBC New York | ✅ Online | HLS (.m3u8) | 200 OK |
+| Star Sports Select 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Star Sports Select 2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -171,13 +171,13 @@
 | M. LaLiga 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | M. LaLiga 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Movistar Plus+ | ✅ Online | HLS (.m3u8) | 200 OK |
-| Movistar Plus+ 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN LaLiga 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Movistar Plus+ 2 | ❌ Offline | HLS (.m3u8) | Error 405 |
+| DAZN LaLiga | ❌ Offline | HLS (.m3u8) | Error 405 |
+| DAZN LaLiga 2 | ❌ Offline | HLS (.m3u8) | Error 405 |
 | beIN SPORTS SG | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 SG | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports USA | ❌ Offline | HLS (.m3u8) | Error 500 |
 | beIN Sports 1 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
