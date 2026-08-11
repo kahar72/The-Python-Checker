@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-10 19:00:38 (SGT)
+**Last Checked:** 2026-08-11 01:56:18 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 | Trans TV | ✅ Online | DASH (.mpd) | 200 OK |
 | Trans7 | ✅ Online | DASH (.mpd) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| RCTI | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNCTV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ANTV | ✅ Online | DASH (.mpd) | 200 OK |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -82,11 +82,11 @@
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky History2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters | ✅ Online | DASH (.mpd) | 200 OK |
@@ -177,7 +177,7 @@
 | beIN SPORTS SG | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 SG | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| beIN Sports USA | ❌ Offline | HLS (.m3u8) | Error 500 |
+| beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN Sports 1 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
