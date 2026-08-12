@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-12 07:36:35 (SGT)
+**Last Checked:** 2026-08-12 13:15:30 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -46,13 +46,13 @@
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
+| Al Madinah Al Munawwarah | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Rodja TV | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -84,7 +84,7 @@
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
+| Nat Geo Wild | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -156,7 +156,7 @@
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 2 UHD | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Hub Premier 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 4 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Hub Premier 5 | ✅ Online | HLS (.m3u8) | 200 OK |
