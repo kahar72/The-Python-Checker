@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-12 13:15:30 (SGT)
+**Last Checked:** 2026-08-12 19:04:22 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -36,7 +36,7 @@
 | Lawak Sentral | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
-| Indosiar | ✅ Online | DASH (.mpd) | 200 OK |
+| Indosiar | ❌ Offline | DASH (.mpd) | Error 520 |
 | Trans TV | ✅ Online | DASH (.mpd) | 200 OK |
 | Trans7 | ✅ Online | DASH (.mpd) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -84,7 +84,7 @@
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -203,8 +203,8 @@
 | CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FOX Sports (Live Only) | ✅ Online | DASH (.mpd) | 200 OK |
-| FS1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| FS2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| FS1 | ✅ Online | DASH (.mpd) | 200 OK |
+| FS2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
 | NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -213,7 +213,7 @@
 | TSN 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TSN 4 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TSN 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
