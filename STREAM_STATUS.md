@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-13 02:11:03 (SGT)
+**Last Checked:** 2026-08-13 07:37:56 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -52,7 +52,7 @@
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Rodja TV | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -82,11 +82,11 @@
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
-| National Geographic | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky History2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky History2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters | ✅ Online | DASH (.mpd) | 200 OK |
@@ -156,7 +156,7 @@
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 2 UHD | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 4 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Hub Premier 5 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -205,7 +205,7 @@
 | FOX Sports (Live Only) | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Soccer Plus | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
 | NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | ONE Friday Fights | ✅ Online | DASH (.mpd) | 200 OK |
