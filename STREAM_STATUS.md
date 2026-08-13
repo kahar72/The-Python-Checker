@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-13 07:37:56 (SGT)
+**Last Checked:** 2026-08-13 13:17:14 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -82,7 +82,7 @@
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
-| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -156,7 +156,7 @@
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 2 UHD | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Hub Premier 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 4 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Hub Premier 5 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -177,11 +177,11 @@
 | beIN SPORTS SG | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 SG | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| beIN Sports USA | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN Sports USA | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | beIN Sports 1 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN Sports 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
-| SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| SPOTV | ❌ Offline | HLS (.m3u8) | Error 503 |
 | SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -192,7 +192,7 @@
 | Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports 4 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
