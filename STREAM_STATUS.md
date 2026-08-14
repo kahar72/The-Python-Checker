@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-14 07:36:07 (SGT)
+**Last Checked:** 2026-08-14 13:12:09 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,9 +25,9 @@
 | Inspirasi | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Salam | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sensasi | ❌ Offline | HLS (.m3u8) | Error 406 |
-| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
-| Astro Prima | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -156,7 +156,7 @@
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 2 UHD | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 4 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Hub Premier 5 | ✅ Online | HLS (.m3u8) | 200 OK |
