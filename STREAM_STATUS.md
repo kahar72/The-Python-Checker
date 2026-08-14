@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-14 02:08:51 (SGT)
+**Last Checked:** 2026-08-14 07:36:07 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,9 +25,9 @@
 | Inspirasi | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Salam | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sensasi | ❌ Offline | HLS (.m3u8) | Error 406 |
-| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Prima | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -81,10 +81,10 @@
 | Smithsonian Channel | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ❌ Offline | HLS (.m3u8) | Error 404 |
-| World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
+| World Fishing Network | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky History2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -183,7 +183,7 @@
 | beIN SPORTS SG | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 SG | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| SPOTV | ❌ Offline | HLS (.m3u8) | Error 503 |
 | SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
