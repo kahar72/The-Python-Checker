@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-16 18:32:25 (SGT)
+**Last Checked:** 2026-08-17 01:24:32 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@
 | Sensasi | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -37,14 +37,14 @@
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ✅ Online | DASH (.mpd) | 200 OK |
-| Trans TV | ✅ Online | DASH (.mpd) | 200 OK |
-| Trans7 | ✅ Online | DASH (.mpd) | 200 OK |
+| Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI | ❌ Offline | HLS (.m3u8) | Error 404 |
-| MNCTV | ❌ Offline | HLS (.m3u8) | Error 404 |
-| ANTV | ✅ Online | DASH (.mpd) | 200 OK |
+| RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
+| MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| ANTV | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV | ✅ Online | DASH (.mpd) | 200 OK |
+| MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -56,7 +56,7 @@
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Metro TV | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Metro TV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TRT World | ✅ Online | HLS (.m3u8) | 200 OK |
 | CNN | ❌ Offline | DASH (.mpd) | Error 404 |
 | BBC News | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -230,5 +230,5 @@
 | Hub Sports 6 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 7 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Sports 8 | ❌ Offline | DASH (.mpd) | Error 404 |
-| SPOTV | ❌ Offline | HLS (.m3u8) | Error 405 |
+| SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | SPOTV2 | ❌ Offline | HLS (.m3u8) | Error 405 |
