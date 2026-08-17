@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-17 07:00:16 (SGT)
+**Last Checked:** 2026-08-17 12:49:04 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@
 | Salam | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Prima | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -35,8 +35,8 @@
 | Drama Hotpot | ✅ Online | DASH (.mpd) | 200 OK |
 | Lawak Sentral | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
-| SCTV | ✅ Online | DASH (.mpd) | 200 OK |
-| Indosiar | ✅ Online | DASH (.mpd) | 200 OK |
+| SCTV | ❌ Offline | DASH (.mpd) | Error 520 |
+| Indosiar | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -67,7 +67,7 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | History | ❌ Offline | DASH (.mpd) | Error 404 |
 | Sky History2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Channel | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -158,28 +158,21 @@
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Bundesliga 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 1 4K | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| M. LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
-| M. LaLiga 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| M. LaLiga 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| M. LaLiga 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Movistar Plus+ | ✅ Online | HLS (.m3u8) | 200 OK |
-| Movistar Plus+ 2 | ❌ Offline | HLS (.m3u8) | Error 405 |
-| DAZN LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN LaLiga 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN Sports 1 AU | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN Sports 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN SPORTS 1 AU | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN SPORTS 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN SPORTS 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
+| beIN SPORTS Global | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 5 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 6 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 7 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 8 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 1 FR | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 2 FR | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 3 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS Español | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS XTRA | ✅ Online | HLS (.m3u8) | 200 OK |
