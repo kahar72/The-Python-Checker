@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-18 01:21:32 (SGT)
+**Last Checked:** 2026-08-18 06:47:50 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -118,7 +118,7 @@
 | HITS Movies | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Just For Laughs Gags | ✅ Online | HLS (.m3u8) | 200 OK |
 | Cartoon Network | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Boomerang | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | DreamWorks | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nick Jr. | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -175,9 +175,6 @@
 | beIN SPORTS USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS Español | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS XTRA | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS SG | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 2 SG | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 3 SG | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -205,11 +202,11 @@
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | ONE Friday Fights | ✅ Online | DASH (.mpd) | 200 OK |
 | HBO Boxing | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -219,7 +216,7 @@
 | SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Austria 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -249,6 +246,10 @@
 | Arena Sport 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | M. LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
