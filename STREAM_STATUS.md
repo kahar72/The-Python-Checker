@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-18 12:51:28 (SGT)
+**Last Checked:** 2026-08-18 18:40:50 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -67,9 +67,9 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | History | ❌ Offline | DASH (.mpd) | Error 404 |
-| Sky History2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky History2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Channel | ❌ Offline | DASH (.mpd) | Error 404 |
 | Discovery Asia | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -196,7 +196,7 @@
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Soccer Plus | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
 | FOX Sports (Live Only) | ✅ Online | DASH (.mpd) | 200 OK |
 | NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -249,7 +249,6 @@
 | ESPN | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
