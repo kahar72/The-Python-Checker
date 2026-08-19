@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-19 01:22:55 (SGT)
+**Last Checked:** 2026-08-19 06:48:48 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -185,11 +185,14 @@
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
