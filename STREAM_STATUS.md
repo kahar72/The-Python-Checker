@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-20 01:22:29 (SGT)
+**Last Checked:** 2026-08-20 06:50:21 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -85,7 +85,7 @@
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ❌ Offline | HLS (.m3u8) | Error 404 |
 | World Fishing Network | ❌ Offline | HLS (.m3u8) | Error 404 |
-| National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
+| National Geographic | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels | ✅ Online | DASH (.mpd) | 200 OK |
@@ -127,7 +127,7 @@
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -152,7 +152,7 @@
 | Sky Sport 7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
-| USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
+| USA Network East | ✅ Online | DASH (.mpd) | 200 OK |
 | NBC New York | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -184,15 +184,15 @@
 | Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Main Event | ❌ Offline | HLS (.m3u8) | Error 458 |
+| TNT Sports 4 | ❌ Offline | HLS (.m3u8) | Error 502 |
+| Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports F1 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 458 |
-| Sky Sports Ultra 2 | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky Sports Ultra 2 | ❌ Offline | HLS (.m3u8) | Error 407 |
 | Premier Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -241,11 +241,11 @@
 | Eleven Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena 3 Premium | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 4 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Arena Sport 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | M. LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
