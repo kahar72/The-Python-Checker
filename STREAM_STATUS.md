@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-21 01:26:14 (SGT)
+**Last Checked:** 2026-08-21 06:51:33 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -67,7 +67,7 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | History Channel | ❌ Offline | DASH (.mpd) | Error 404 |
 | H2 Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Channel | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -132,10 +132,10 @@
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 1 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
-| Hub Premier 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 2 UHD | ❌ Offline | DASH (.mpd) | Error 404 |
+| Hub Premier 3 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 4 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 5 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Hub Premier 6 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -150,10 +150,10 @@
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | DASH (.mpd) | 200 OK |
 | NBC New York | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Premier League | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Premier League 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 401 |
+| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Star Sports Select 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -174,7 +174,7 @@
 | beIN SPORTS 3 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS Español | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS XTRA | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN SPORTS XTRA | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena Bola | ❌ Offline | HLS (.m3u8) | Error 401 |
@@ -185,14 +185,14 @@
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Main Event | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 458 |
-| Sky Sports Ultra 2 | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -250,7 +250,7 @@
 | M. LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| ESPN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
