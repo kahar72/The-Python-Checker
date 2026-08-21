@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-21 12:52:53 (SGT)
+**Last Checked:** 2026-08-21 18:39:25 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -22,9 +22,9 @@
 | TV9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Inspirasi | ✅ Online | HLS (.m3u8) | 200 OK |
-| Salam | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sensasi | ✅ Online | HLS (.m3u8) | 200 OK |
+| Inspirasi | ❌ Offline | HLS (.m3u8) | Error 406 |
+| Salam | ❌ Offline | HLS (.m3u8) | Error 406 |
+| Sensasi | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
@@ -86,7 +86,7 @@
 | Outdoor Channel | ❌ Offline | HLS (.m3u8) | Error 404 |
 | World Fishing Network | ❌ Offline | HLS (.m3u8) | Error 404 |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
+| Nat Geo Wild | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters | ✅ Online | DASH (.mpd) | 200 OK |
@@ -173,7 +173,7 @@
 | beIN SPORTS 2 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS USA | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS Español | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN SPORTS Español | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS XTRA | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -184,7 +184,7 @@
 | Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports 4 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
