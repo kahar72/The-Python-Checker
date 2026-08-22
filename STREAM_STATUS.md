@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-21 18:39:25 (SGT)
+**Last Checked:** 2026-08-22 01:21:32 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -14,7 +14,7 @@
 | TV2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TV3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TV3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TV3 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Snap | ✅ Online | HLS (.m3u8) | 200 OK |
 | Apetito | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Aura | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -46,7 +46,7 @@
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ✅ Online | DASH (.mpd) | 200 OK |
+| Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
@@ -62,7 +62,7 @@
 | BBC News | ❌ Offline | DASH (.mpd) | Error 404 |
 | Sky News | ❌ Offline | DASH (.mpd) | Error 404 |
 | CGTN | ❌ Offline | DASH (.mpd) | Error 404 |
-| NHK World Premium | ❌ Offline | DASH (.mpd) | Error 404 |
+| NHK World Japan | ❌ Offline | DASH (.mpd) | Error 404 |
 | ABC Australia | ❌ Offline | DASH (.mpd) | Error 404 |
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -86,7 +86,7 @@
 | Outdoor Channel | ❌ Offline | HLS (.m3u8) | Error 404 |
 | World Fishing Network | ❌ Offline | HLS (.m3u8) | Error 404 |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
-| Nat Geo Wild | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Marvels | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters | ✅ Online | DASH (.mpd) | 200 OK |
@@ -154,8 +154,8 @@
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
-| Star Sports Select 1 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Star Sports Select 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Star Sports Select 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 1 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN SPORTS 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
@@ -184,7 +184,7 @@
 | Astro Sports Plus | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 4 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -199,7 +199,7 @@
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
+| Fox Soccer Plus | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | FOX Sports (Live Only) | ✅ Online | DASH (.mpd) | 200 OK |
 | NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -218,6 +218,8 @@
 | Hub Sports 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | SPOTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| meWATCH Live 1 | ✅ Online | DASH (.mpd) | 200 OK |
+| meWATCH Live 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
