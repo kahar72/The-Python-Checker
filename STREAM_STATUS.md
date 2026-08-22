@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-22 06:43:12 (SGT)
+**Last Checked:** 2026-08-22 12:43:10 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -19,7 +19,7 @@
 | Apetito | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Aura | ✅ Online | HLS (.m3u8) | 200 OK |
 | Fitrah | ✅ Online | HLS (.m3u8) | 200 OK |
-| TV9 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TV9 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Inspirasi | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -147,11 +147,11 @@
 | Sky Sport 6 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport 9 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | DASH (.mpd) | 200 OK |
 | NBC New York | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Premier League 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Astro Premier League | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -193,13 +193,13 @@
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Premier Sports 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Premier Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premier Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Soccer Plus | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
 | FOX Sports (Live Only) | ✅ Online | DASH (.mpd) | 200 OK |
 | NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
