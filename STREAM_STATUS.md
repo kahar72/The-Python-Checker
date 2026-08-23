@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-23 06:45:01 (SGT)
+**Last Checked:** 2026-08-23 12:43:59 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -67,9 +67,9 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
-| History Channel | ❌ Offline | DASH (.mpd) | Error 404 |
-| H2 Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| USA | Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
+| SG | History Channel | ❌ Offline | DASH (.mpd) | Error 404 |
+| CA | H2 Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Discovery Channel | ❌ Offline | DASH (.mpd) | Error 404 |
 | Discovery Asia | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
