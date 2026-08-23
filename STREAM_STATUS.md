@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-23 01:35:16 (SGT)
+**Last Checked:** 2026-08-23 06:45:01 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -14,7 +14,7 @@
 | TV2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TV3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TV3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TV3 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Snap | ✅ Online | HLS (.m3u8) | 200 OK |
 | Apetito | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Aura | ✅ Online | HLS (.m3u8) | 200 OK |
