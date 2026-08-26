@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-26 01:26:44 (SGT)
+**Last Checked:** 2026-08-26 06:53:36 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -131,7 +131,7 @@
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -154,7 +154,7 @@
 | Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 429 |
+| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -240,7 +240,7 @@
 | DAZN 5 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Digi Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Digi Sport 3 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Digi Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
