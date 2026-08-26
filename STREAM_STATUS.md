@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-26 12:57:00 (SGT)
+**Last Checked:** 2026-08-26 19:49:01 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -68,7 +68,7 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | H2 Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | History Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Discovery Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -131,8 +131,8 @@
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| TNT Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports 2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -163,7 +163,7 @@
 | beIN SPORTS 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN SPORTS Global | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | beIN SPORTS 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 5 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -188,7 +188,7 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports 3 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -217,6 +217,7 @@
 | TSN 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet World | ✅ Online | HLS (.m3u8) | 200 OK |
+| FUBO Sports Network | ✅ Online | DASH (.mpd) | 200 OK |
 | Hub Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -226,6 +227,8 @@
 | SPOTV2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | meWATCH Live 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | meWATCH Live 2 | ✅ Online | DASH (.mpd) | 200 OK |
+| meWATCH Live 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| meWATCH Live 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -239,7 +242,7 @@
 | DAZN 4 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 5 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Digi Sport 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Digi Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 4K | ✅ Online | HLS (.m3u8) | 200 OK |
