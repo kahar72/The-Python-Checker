@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-26 06:53:36 (SGT)
+**Last Checked:** 2026-08-26 12:57:00 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -15,7 +15,7 @@
 | TV2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TV3 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| TV3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Snap | ✅ Online | HLS (.m3u8) | 200 OK |
 | Apetito | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Aura | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -68,16 +68,16 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
-| History Channel | ❌ Offline | DASH (.mpd) | Error 404 |
+| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | H2 Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Discovery Channel | ❌ Offline | DASH (.mpd) | Error 404 |
+| History Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Discovery Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Discovery Asia | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Crime & Investigation | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| BBC Earth | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| HGTV | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
 | Curiosity Now | ✅ Online | DASH (.mpd) | 200 OK |
-| Crime & Investigation | ❌ Offline | DASH (.mpd) | Error 404 |
-| BBC Earth | ❌ Offline | DASH (.mpd) | Error 404 |
-| HGTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | TravelXP | ❌ Offline | DASH (.mpd) | Error 404 |
 | Asian Food Network | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
@@ -188,7 +188,7 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports 3 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -239,8 +239,8 @@
 | DAZN 4 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 5 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Digi Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Digi Sport 3 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Digi Sport 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Digi Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
