@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-26 19:49:01 (SGT)
+**Last Checked:** 2026-08-27 08:16:55 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@
 | Inspirasi | ✅ Online | HLS (.m3u8) | 200 OK |
 | Salam | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -45,7 +45,7 @@
 | MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | ANTV | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| MDTV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -128,11 +128,11 @@
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| TNT Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -163,7 +163,7 @@
 | beIN SPORTS 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN SPORTS Global | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 5 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -194,9 +194,9 @@
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports F1 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 407 |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
