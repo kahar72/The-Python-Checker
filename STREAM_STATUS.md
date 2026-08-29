@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-08-29 16:25:33 (SGT)
+**Last Checked:** 2026-08-29 20:38:56 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -68,7 +68,7 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | H2 Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | History Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Discovery Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -243,7 +243,7 @@
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
 | DAZN 1 PT | ❌ Offline | HLS (.m3u8) | Error 404 |
-| DAZN 2 PT | ❌ Offline | HLS (.m3u8) | Error 404 |
+| DAZN 2 PT | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | DAZN 3 PT | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DAZN 4 PT | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DAZN 5 PT | ✅ Online | HLS (.m3u8) | 200 OK |
