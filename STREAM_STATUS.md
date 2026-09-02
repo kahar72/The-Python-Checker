@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-02 03:37:02 (SGT)
+**Last Checked:** 2026-09-02 10:53:50 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@
 | Inspirasi | ✅ Online | HLS (.m3u8) | 200 OK |
 | Salam | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sensasi | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -52,8 +52,8 @@
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Alwafa Tarim TV | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Rodja TV | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -154,7 +154,7 @@
 | Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 429 |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -163,8 +163,8 @@
 | beIN SPORTS 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN SPORTS Global | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| beIN SPORTS 3 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | beIN SPORTS 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 6 | ✅ Online | HLS (.m3u8) | 200 OK |
