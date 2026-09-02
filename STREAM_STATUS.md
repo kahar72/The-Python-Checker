@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-02 16:12:56 (SGT)
+**Last Checked:** 2026-09-02 20:44:44 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -131,8 +131,8 @@
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
-| TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
+| TNT Sports 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| TNT Sports 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Hub Premier 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -151,7 +151,7 @@
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | NBC New York | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Premier League | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
@@ -166,7 +166,7 @@
 | beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 5 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| beIN SPORTS 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 6 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 8 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -188,19 +188,19 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports Ultimate | ❌ Offline | HLS (.m3u8) | Error 458 |
 | TNT Sports 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 3 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 4 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Main Event | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Football | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sports Mix | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Sky Sports Ultra 2 | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | ITV 1 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -239,8 +239,8 @@
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 1 DE | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| DAZN 2 DE | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
 | DAZN 1 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 PT | ✅ Online | HLS (.m3u8) | 200 OK |
