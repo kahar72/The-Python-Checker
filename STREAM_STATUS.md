@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-01 20:45:20 (SGT)
+**Last Checked:** 2026-09-02 03:37:02 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -52,8 +52,8 @@
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Alwafa Tarim TV | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Rodja TV | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
