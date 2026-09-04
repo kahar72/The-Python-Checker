@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-04 15:58:55 (SGT)
+**Last Checked:** 2026-09-04 20:28:57 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -119,7 +119,7 @@
 | HITS Movies | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Just For Laughs Gags | ✅ Online | HLS (.m3u8) | 200 OK |
 | Cartoon Network | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang | ✅ Online | HLS (.m3u8) | 200 OK |
+| Boomerang | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DreamWorks | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nick Jr. | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -140,7 +140,7 @@
 | Hub Premier 4 | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Hub Premier 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 6 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -188,19 +188,19 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports Ultimate | ❌ Offline | HLS (.m3u8) | Error 458 |
 | TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Main Event | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Sky Sports Ultra 2 | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | ITV 1 | ❌ Offline | DASH (.mpd) | Error 404 |
