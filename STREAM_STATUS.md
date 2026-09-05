@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-05 10:12:14 (SGT)
+**Last Checked:** 2026-09-05 14:49:46 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@
 | Inspirasi | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Salam | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Sensasi | ❌ Offline | HLS (.m3u8) | Error 401 |
-| Astro Ria | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Prima | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -38,14 +38,14 @@
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ✅ Online | DASH (.mpd) | 200 OK |
-| Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Trans TV | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Trans7 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
-| MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| RCTI | ❌ Offline | HLS (.m3u8) | Error 503 |
+| MNCTV | ❌ Offline | HLS (.m3u8) | Error 503 |
 | ANTV | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| MDTV | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -154,7 +154,7 @@
 | Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 429 |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -188,19 +188,19 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports Ultimate | ❌ Offline | HLS (.m3u8) | Error 458 |
 | TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Main Event | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Sky Sports Ultra 2 | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | ITV 1 | ❌ Offline | DASH (.mpd) | Error 404 |
