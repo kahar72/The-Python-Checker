@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-06 20:09:52 (SGT)
+**Last Checked:** 2026-09-07 03:38:35 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
+| RCTI | ❌ Offline | HLS (.m3u8) | Error 503 |
 | MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | ANTV | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -219,10 +219,10 @@
 | TSN 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TSN 3 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TSN 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 5 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sportsnet World | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sportsnet World | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | FUBO Sports Network | ✅ Online | DASH (.mpd) | 200 OK |
 | Hub Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -237,7 +237,7 @@
 | meWATCH Live 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Mix | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Bundesliga | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
