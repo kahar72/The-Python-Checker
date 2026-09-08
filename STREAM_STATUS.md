@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-08 16:16:31 (SGT)
+**Last Checked:** 2026-09-08 20:52:58 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -206,7 +206,7 @@
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Soccer Plus | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
 | FOX Sports (Live Only) | ✅ Online | DASH (.mpd) | 200 OK |
 | NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | MotoGP | ✅ Online | DASH (.mpd) | 200 OK |
@@ -239,10 +239,10 @@
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
-| DAZN 1 PT | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 2 PT | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 3 PT | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 4 PT | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 1 PT | ❌ Offline | HLS (.m3u8) | Error 401 |
+| DAZN 2 PT | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 3 PT | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 4 PT | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | DAZN 5 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
