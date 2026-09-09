@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-08 20:52:58 (SGT)
+**Last Checked:** 2026-09-09 03:48:23 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -239,10 +239,10 @@
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
-| DAZN 1 PT | ❌ Offline | HLS (.m3u8) | Error 401 |
-| DAZN 2 PT | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| DAZN 3 PT | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| DAZN 4 PT | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 1 PT | ❌ Offline | HLS (.m3u8) | Error 502 |
+| DAZN 2 PT | ❌ Offline | HLS (.m3u8) | Error 502 |
+| DAZN 3 PT | ❌ Offline | HLS (.m3u8) | Error 502 |
+| DAZN 4 PT | ❌ Offline | HLS (.m3u8) | Error 502 |
 | DAZN 5 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
