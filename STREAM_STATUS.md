@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-09 20:40:44 (SGT)
+**Last Checked:** 2026-09-10 03:46:48 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -126,7 +126,7 @@
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -152,7 +152,7 @@
 | Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -195,9 +195,9 @@
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports F1 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 407 |
+| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -207,7 +207,7 @@
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Soccer Plus | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
 | FOX Sports (Live Only) | ✅ Online | DASH (.mpd) | 200 OK |
 | NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | MotoGP | ✅ Online | DASH (.mpd) | 200 OK |
