@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-10 03:46:48 (SGT)
+**Last Checked:** 2026-09-10 10:54:22 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,9 +25,9 @@
 | TV9 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Prima | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -51,7 +51,7 @@
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Alwafa Tarim TV | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -152,7 +152,7 @@
 | Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -260,7 +260,7 @@
 | Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 4 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Arena Sport 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | M. LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
