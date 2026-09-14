@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-14 04:03:03 (SGT)
+**Last Checked:** 2026-09-14 12:12:00 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -197,7 +197,7 @@
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports+ | ❌ Offline | HLS (.m3u8) | Error 409 |
+| Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -272,7 +272,7 @@
 | GO3 Sport 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport OPEN | ✅ Online | DASH (.mpd) | 200 OK |
 | ESPN | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| ESPN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Caze TV | ✅ Online | DASH (.mpd) | 200 OK |
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
