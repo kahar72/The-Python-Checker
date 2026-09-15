@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-15 16:34:02 (SGT)
+**Last Checked:** 2026-09-15 20:59:52 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -123,6 +123,12 @@
 | Nick Jr. | ❌ Offline | DASH (.mpd) | Error 404 |
 | Nickelodeon | ❌ Offline | DASH (.mpd) | Error 404 |
 | Cbeebies | ❌ Offline | DASH (.mpd) | Error 404 |
+| Asian Games 1 | ✅ Online | DASH (.mpd) | 200 OK |
+| Asian Games 2 | ✅ Online | DASH (.mpd) | 200 OK |
+| Asian Games 3 | ✅ Online | DASH (.mpd) | 200 OK |
+| Asian Games 4 | ✅ Online | DASH (.mpd) | 200 OK |
+| Asian Games 5 | ✅ Online | DASH (.mpd) | 200 OK |
+| Asian Games 6 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD | ✅ Online | HLS (.m3u8) | 200 OK |
