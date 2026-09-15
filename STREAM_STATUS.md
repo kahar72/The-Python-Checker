@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-15 11:21:39 (SGT)
+**Last Checked:** 2026-09-15 16:34:02 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -57,7 +57,7 @@
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Awani | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Metro TV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| TRT World | ❌ Offline | HLS (.m3u8) | Error 503 |
+| TRT World | ✅ Online | HLS (.m3u8) | 200 OK |
 | CNN | ❌ Offline | DASH (.mpd) | Error 404 |
 | BBC News | ❌ Offline | DASH (.mpd) | Error 404 |
 | Sky News | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -152,7 +152,7 @@
 | Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -257,9 +257,9 @@
 | Eleven Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena 1 Premium | ❌ Offline | HLS (.m3u8) | Error 418 |
-| Arena 2 Premium | ❌ Offline | HLS (.m3u8) | Error 418 |
-| Arena 3 Premium | ❌ Offline | HLS (.m3u8) | Error 418 |
+| Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
