@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-18 16:03:41 (SGT)
+**Last Checked:** 2026-09-18 20:36:55 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Prima | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -42,7 +42,7 @@
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
 | MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| ANTV | ✅ Online | DASH (.mpd) | 200 OK |
+| ANTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -67,7 +67,7 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
+| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | H2 Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | History Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Discovery Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -82,7 +82,7 @@
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| Travel Channel | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | DASH (.mpd) | 200 OK |
@@ -117,7 +117,7 @@
 | HITS Movies | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Just For Laughs Gags | ✅ Online | HLS (.m3u8) | 200 OK |
 | Cartoon Network | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang | ✅ Online | HLS (.m3u8) | 200 OK |
+| Boomerang | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DreamWorks | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nick Jr. | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -202,8 +202,8 @@
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Mix | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky Sports+ | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -263,9 +263,9 @@
 | Eleven Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena 1 Premium | ❌ Offline | HLS (.m3u8) | Error 418 |
+| Arena 2 Premium | ❌ Offline | HLS (.m3u8) | Error 418 |
+| Arena 3 Premium | ❌ Offline | HLS (.m3u8) | Error 418 |
 | Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
