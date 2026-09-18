@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-18 10:48:16 (SGT)
+**Last Checked:** 2026-09-18 16:03:41 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -67,7 +67,7 @@
 | DW English | ❌ Offline | DASH (.mpd) | Error 404 |
 | France24 | ❌ Offline | DASH (.mpd) | Error 404 |
 | Love Nature | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Animal Planet | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Animal Planet | ✅ Online | HLS (.m3u8) | 200 OK |
 | H2 Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | History Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Discovery Channel | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -82,7 +82,7 @@
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Travel Channel | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | DASH (.mpd) | 200 OK |
@@ -139,7 +139,7 @@
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Hub Premier 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 2 UHD | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 4 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -202,12 +202,10 @@
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Mix | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | ITV 1 | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -224,11 +222,11 @@
 | ONE Friday Fights | ✅ Online | DASH (.mpd) | 200 OK |
 | HBO Boxing | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 4K | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TSN 5 | ✅ Online | HLS (.m3u8) | 200 OK |
+| TSN 1 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 2 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 3 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 4 | ✅ Online | DASH (.mpd) | 200 OK |
+| TSN 5 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet World | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet 360 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet Ontario | ✅ Online | DASH (.mpd) | 200 OK |
@@ -251,11 +249,11 @@
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
-| DAZN 1 PT | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 2 PT | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 3 PT | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 4 PT | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 5 PT | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 1 PT | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| DAZN 2 PT | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| DAZN 3 PT | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| DAZN 4 PT | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| DAZN 5 PT | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Digi Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Digi Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
