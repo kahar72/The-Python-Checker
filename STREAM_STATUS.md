@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-23 16:24:15 (SGT)
+**Last Checked:** 2026-09-23 21:16:04 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@
 | TV9 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Prima | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -35,14 +35,14 @@
 | Drama Hotpot | ✅ Online | DASH (.mpd) | 200 OK |
 | Lawak Sentral | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
-| SCTV | ❌ Offline | DASH (.mpd) | Error 520 |
+| SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Trans TV | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Trans7 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
+| RCTI | ❌ Offline | HLS (.m3u8) | Error 503 |
 | MNCTV | ❌ Offline | HLS (.m3u8) | Error 503 |
-| ANTV | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| ANTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -156,9 +156,9 @@
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Premier League 2 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -277,8 +277,8 @@
 | Go3 SPORT 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport OPEN | ✅ Online | DASH (.mpd) | 200 OK |
-| ESPN | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| ESPN 2 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| ESPN | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Caze TV | ✅ Online | DASH (.mpd) | 200 OK |
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
