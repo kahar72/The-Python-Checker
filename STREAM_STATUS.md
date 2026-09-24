@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-24 16:45:52 (SGT)
+**Last Checked:** 2026-09-24 21:17:34 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -159,7 +159,7 @@
 | Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -176,7 +176,7 @@
 | beIN SPORTS 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 6 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 7 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 7 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | beIN SPORTS 8 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 1 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 FR | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -196,7 +196,7 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports Ultimate | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -205,7 +205,7 @@
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports F1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
