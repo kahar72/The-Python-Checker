@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-25 11:26:25 (SGT)
+**Last Checked:** 2026-09-25 16:50:49 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -26,7 +26,6 @@
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Prima | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ❌ Offline | DASH (.mpd) | Error 404 |
 | Astro Sensasi | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -42,7 +41,7 @@
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
 | MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| ANTV | ✅ Online | DASH (.mpd) | 200 OK |
+| ANTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -50,7 +49,7 @@
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
-| MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| MQTV | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -141,7 +140,7 @@
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Hub Premier 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 2 UHD | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 4 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -160,7 +159,7 @@
 | Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -178,7 +177,7 @@
 | beIN SPORTS 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 6 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 7 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 8 | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS 8 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | beIN SPORTS 1 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 FR | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -233,6 +232,7 @@
 | Sportsnet 360 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet Ontario | ✅ Online | DASH (.mpd) | 200 OK |
 | FUBO Sports Network | ✅ Online | DASH (.mpd) | 200 OK |
+| FUBO Sports Network 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Hub Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Sports 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -244,7 +244,7 @@
 | meWATCH Live 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | meWATCH Live 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | meWATCH Live 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Top Event | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -265,9 +265,9 @@
 | Eleven Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena 1 Premium | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Arena 2 Premium | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Arena 3 Premium | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
