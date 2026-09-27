@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-26 20:47:56 (SGT)
+**Last Checked:** 2026-09-27 04:25:44 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -35,7 +35,7 @@
 | Drama Hotpot | ✅ Online | DASH (.mpd) | 200 OK |
 | Lawak Sentral | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
-| SCTV | ✅ Online | DASH (.mpd) | 200 OK |
+| SCTV | ❌ Offline | DASH (.mpd) | Error 520 |
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -157,10 +157,10 @@
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York | ✅ Online | DASH (.mpd) | 200 OK |
-| Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -182,7 +182,7 @@
 | beIN SPORTS 1 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 FR | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS USA | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN SPORTS USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS Español | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS XTRA | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -204,7 +204,7 @@
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports Main Event | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Mix | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -216,7 +216,7 @@
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Fox Soccer Plus | ❌ Offline | HLS (.m3u8) | Error 502 |
+| Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
 | FOX Sports (Live Only) | ✅ Online | DASH (.mpd) | 200 OK |
 | NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | MotoGP | ✅ Online | DASH (.mpd) | 200 OK |
