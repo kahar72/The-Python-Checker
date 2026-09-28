@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-28 13:16:37 (SGT)
+**Last Checked:** 2026-09-28 23:02:41 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -39,11 +39,11 @@
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
+| TVRI | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
 | MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| ANTV | ✅ Online | DASH (.mpd) | 200 OK |
-| RTV | ✅ Online | HLS (.m3u8) | 200 OK |
+| ANTV | ❌ Offline | DASH (.mpd) | Error 404 |
+| RTV | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -171,14 +171,6 @@
 | beIN SPORTS 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN SPORTS 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN SPORTS Global | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 5 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 6 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 7 | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 8 | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 1 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 3 FR | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -287,5 +279,5 @@
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
