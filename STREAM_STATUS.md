@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-27 21:04:34 (SGT)
+**Last Checked:** 2026-09-28 04:26:39 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -279,7 +279,7 @@
 | Go3 SPORT 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport OPEN | ✅ Online | DASH (.mpd) | 200 OK |
-| ESPN | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| ESPN | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Caze TV | ✅ Online | DASH (.mpd) | 200 OK |
@@ -287,5 +287,5 @@
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| Match! Football 2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 3 | ✅ Online | DASH (.mpd) | 200 OK |
