@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-09-28 23:02:41 (SGT)
+**Last Checked:** 2026-09-29 04:56:09 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -39,11 +39,11 @@
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TVRI | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
 | MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| ANTV | ❌ Offline | DASH (.mpd) | Error 404 |
-| RTV | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| ANTV | ✅ Online | DASH (.mpd) | 200 OK |
+| RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -160,7 +160,7 @@
 | Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Grandstand | ❌ Offline | HLS (.m3u8) | Error 458 |
+| Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -198,7 +198,7 @@
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports F1 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -271,7 +271,7 @@
 | Go3 SPORT 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport OPEN | ✅ Online | DASH (.mpd) | 200 OK |
-| ESPN | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | ESPN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | ESPN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Caze TV | ✅ Online | DASH (.mpd) | 200 OK |
@@ -279,5 +279,5 @@
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| Match! Football 2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 3 | ✅ Online | DASH (.mpd) | 200 OK |
