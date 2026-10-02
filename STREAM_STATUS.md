@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-02 04:45:28 (SGT)
+**Last Checked:** 2026-10-02 12:07:05 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,9 +25,9 @@
 | TV9 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sensasi | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -157,7 +157,7 @@
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York | ✅ Online | DASH (.mpd) | 200 OK |
-| Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -258,9 +258,9 @@
 | Eleven Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena 2 Premium | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
@@ -278,6 +278,6 @@
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Match! Football 1 | ✅ Online | DASH (.mpd) | 200 OK |
-| Match! Football 2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 3 | ✅ Online | DASH (.mpd) | 200 OK |
