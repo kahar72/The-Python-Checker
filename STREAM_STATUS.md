@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-03 11:18:16 (SGT)
+**Last Checked:** 2026-10-03 15:56:01 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -35,14 +35,14 @@
 | Drama Hotpot | ✅ Online | DASH (.mpd) | 200 OK |
 | Lawak Sentral | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
-| SCTV | ❌ Offline | DASH (.mpd) | Error 520 |
+| SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
 | MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| ANTV | ✅ Online | DASH (.mpd) | 200 OK |
+| ANTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -83,7 +83,7 @@
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| Travel Channel | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | DASH (.mpd) | 200 OK |
@@ -198,7 +198,7 @@
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports Main Event | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Mix | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -281,6 +281,6 @@
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Match! Football 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Match! Football 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
