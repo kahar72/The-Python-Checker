@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-05 04:45:52 (SGT)
+**Last Checked:** 2026-10-05 13:59:40 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Astro Warna | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sensasi | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -42,7 +42,7 @@
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
 | MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| ANTV | ✅ Online | DASH (.mpd) | 200 OK |
+| ANTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -83,7 +83,7 @@
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| Travel Channel | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | DASH (.mpd) | 200 OK |
@@ -143,14 +143,14 @@
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Hub Premier 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 2 UHD | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 4 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport 3 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sky Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 6 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -268,7 +268,7 @@
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 5 | ✅ Online | HLS (.m3u8) | 200 OK |
-| M. LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
+| M. LaLiga | ❌ Offline | HLS (.m3u8) | Error 503 |
 | DAZN LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
 | GO3 Sport 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Go3 SPORT 2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -281,7 +281,7 @@
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Match! Football 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Okko Futbol | ✅ Online | HLS (.m3u8) | 200 OK |
