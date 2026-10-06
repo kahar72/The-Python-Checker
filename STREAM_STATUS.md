@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-06 05:32:28 (SGT)
+**Last Checked:** 2026-10-06 12:59:52 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -15,7 +15,7 @@
 | TV2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TV3 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| TV3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Snap | ✅ Online | HLS (.m3u8) | 200 OK |
 | Apetito | ✅ Online | HLS (.m3u8) | 200 OK |
 | Aura | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -26,8 +26,8 @@
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Prima | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Astro Citra | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Warna | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sensasi | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Filem Mantap | ✅ Online | DASH (.mpd) | 200 OK |
@@ -136,7 +136,7 @@
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -159,8 +159,8 @@
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York | ✅ Online | DASH (.mpd) | 200 OK |
-| Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
-| Astro Premier League 2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -200,7 +200,7 @@
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports F1 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ✅ Online | HLS (.m3u8) | 200 OK |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
