@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-09 22:25:17 (SGT)
+**Last Checked:** 2026-10-10 05:00:25 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -77,7 +77,7 @@
 | BBC Earth | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | HGTV | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Discovery Science | ✅ Online | HLS (.m3u8) | 200 OK |
-| Curiosity Now | ✅ Online | DASH (.mpd) | 200 OK |
+| Curiosity Now | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | TravelXP | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Asian Food Network | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Travel & Taste | ✅ Online | DASH (.mpd) | 200 OK |
@@ -146,7 +146,7 @@
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Hub Premier 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Hub Premier 2 UHD | ✅ Online | HLS (.m3u8) | 200 OK |
+| Hub Premier 2 UHD | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Hub Premier 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 4 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -162,13 +162,13 @@
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | HLS (.m3u8) | 200 OK |
 | NBC New York | ✅ Online | DASH (.mpd) | 200 OK |
-| Astro Premier League | ❌ Offline | HLS (.m3u8) | Error 502 |
+| Astro Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
 | beIN SPORTS SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 2 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 3 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -220,7 +220,7 @@
 | ONE Friday Fights | ✅ Online | DASH (.mpd) | 200 OK |
 | HBO Boxing | ✅ Online | DASH (.mpd) | 200 OK |
 | Willow Sports | ✅ Online | DASH (.mpd) | 200 OK |
-| TSN 4K | ❌ Offline | HLS (.m3u8) | Error 503 |
+| TSN 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | TSN 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 3 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -244,7 +244,7 @@
 | meWATCH Live 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | meWATCH Live 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Austria 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -267,7 +267,7 @@
 | Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -291,5 +291,5 @@
 | Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Okko Futbol | ✅ Online | HLS (.m3u8) | 200 OK |
-| Okko Prime Sport | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Okko Prime Sport | ✅ Online | HLS (.m3u8) | 200 OK |
 | Okko Sport | ✅ Online | HLS (.m3u8) | 200 OK |
