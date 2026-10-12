@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-11 21:38:51 (SGT)
+**Last Checked:** 2026-10-12 05:04:11 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -38,7 +38,7 @@
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Trans7 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
 | MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -164,7 +164,7 @@
 | Astro Grandstand | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Star Sports Select 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Star Sports Select 2 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
 | beIN SPORTS SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 2 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 3 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -245,6 +245,9 @@
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
+| Sky Sport 24 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Uno | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Max | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 3 PT | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -262,7 +265,7 @@
 | Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
