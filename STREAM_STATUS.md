@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-13 13:49:04 (SGT)
+**Last Checked:** 2026-10-13 22:24:39 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -128,19 +128,25 @@
 | Nick Jr. | ❌ Offline | DASH (.mpd) | Error 404 |
 | Nickelodeon | ❌ Offline | DASH (.mpd) | Error 404 |
 | Cbeebies | ❌ Offline | DASH (.mpd) | Error 404 |
-| F1 TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport F1 IT | ✅ Online | HLS (.m3u8) | 200 OK |
-| MotoGP | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sport MotoGP IT | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| beIN SPORTS 2 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| beIN SPORTS 3 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
+| TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
+| TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
+| TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
+| Paramount 001 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Paramount 002 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Paramount 003 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Paramount 004 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Paramount 005 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Paramount 006 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
-| TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
-| TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Hub Premier 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -162,8 +168,6 @@
 | Astro Premier League 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Star Sports Select 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Star Sports Select 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 2 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -283,8 +287,13 @@
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Match! Football 1 | ✅ Online | DASH (.mpd) | 200 OK |
-| Match! Football 2 | ✅ Online | DASH (.mpd) | 200 OK |
+| Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Okko Futbol | ✅ Online | HLS (.m3u8) | 200 OK |
 | Okko Prime Sport | ✅ Online | HLS (.m3u8) | 200 OK |
 | Okko Sport | ✅ Online | HLS (.m3u8) | 200 OK |
+| F1 TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport F1 IT | ✅ Online | HLS (.m3u8) | 200 OK |
+| MotoGP | ✅ Online | DASH (.mpd) | 200 OK |
+| Sky Sport MotoGP IT | ✅ Online | HLS (.m3u8) | 200 OK |
