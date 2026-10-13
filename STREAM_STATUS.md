@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-13 00:19:04 (SGT)
+**Last Checked:** 2026-10-13 13:49:04 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -133,7 +133,7 @@
 | Sky Sport F1 IT | ✅ Online | HLS (.m3u8) | 200 OK |
 | MotoGP | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport MotoGP IT | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Premier League | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event UHD | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -282,9 +282,9 @@
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Match! Football 2 | ✅ Online | DASH (.mpd) | 200 OK |
-| Match! Football 3 | ✅ Online | DASH (.mpd) | 200 OK |
+| Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Okko Futbol | ✅ Online | HLS (.m3u8) | 200 OK |
 | Okko Prime Sport | ✅ Online | HLS (.m3u8) | 200 OK |
 | Okko Sport | ✅ Online | HLS (.m3u8) | 200 OK |
