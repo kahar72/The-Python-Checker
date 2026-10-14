@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-13 22:24:39 (SGT)
+**Last Checked:** 2026-10-14 04:07:11 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -121,7 +121,7 @@
 | HITS Movies | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Just For Laughs Gags | ✅ Online | HLS (.m3u8) | 200 OK |
 | Cartoon Network | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang | ✅ Online | HLS (.m3u8) | 200 OK |
+| Boomerang | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | DreamWorks | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | MeTV Toons | ✅ Online | DASH (.mpd) | 200 OK |
@@ -279,14 +279,14 @@
 | Go3 Sport 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport OPEN | ✅ Online | DASH (.mpd) | 200 OK |
-| ESPN | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 2 | ✅ Online | HLS (.m3u8) | 200 OK |
-| ESPN 3 | ✅ Online | HLS (.m3u8) | 200 OK |
+| ESPN | ❌ Offline | HLS (.m3u8) | Error 503 |
+| ESPN 2 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| ESPN 3 | ❌ Offline | HLS (.m3u8) | Error 503 |
 | Caze TV | ✅ Online | DASH (.mpd) | 200 OK |
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Match! Football 1 | ✅ Online | DASH (.mpd) | 200 OK |
+| Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Okko Futbol | ✅ Online | HLS (.m3u8) | 200 OK |
