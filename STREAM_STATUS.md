@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-14 21:22:48 (SGT)
+**Last Checked:** 2026-10-15 03:49:38 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -51,7 +51,7 @@
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
 | MQTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Alwafa Tarim TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Alwafa Tarim TV | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Rodja TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Jazeera English | ✅ Online | HLS (.m3u8) | 200 OK |
 | Channel News Asia | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -121,7 +121,7 @@
 | HITS Movies | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Just For Laughs Gags | ✅ Online | HLS (.m3u8) | 200 OK |
 | Cartoon Network | ❌ Offline | DASH (.mpd) | Error 404 |
-| Boomerang | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Boomerang | ✅ Online | HLS (.m3u8) | 200 OK |
 | DreamWorks | ❌ Offline | DASH (.mpd) | Error 404 |
 | Disney Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | MeTV Toons | ✅ Online | DASH (.mpd) | 200 OK |
@@ -210,8 +210,8 @@
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
-| FS1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| FS2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| FS1 | ✅ Online | DASH (.mpd) | 200 OK |
+| FS2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
 | FOX Sports (Live Only) | ✅ Online | DASH (.mpd) | 200 OK |
 | NFL Network | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -266,12 +266,12 @@
 | Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 5 | ✅ Online | HLS (.m3u8) | 200 OK |
-| M. LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
+| M. LaLiga | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | DAZN LaLiga | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eurosport 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Eurosport 2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -287,7 +287,7 @@
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| Match! Football 2 | ✅ Online | DASH (.mpd) | 200 OK |
+| Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Okko Futbol | ✅ Online | HLS (.m3u8) | 200 OK |
 | Okko Prime Sport | ✅ Online | HLS (.m3u8) | 200 OK |
