@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-15 21:04:23 (SGT)
+**Last Checked:** 2026-10-16 03:45:22 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -267,7 +267,7 @@
 | Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 5 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -286,12 +286,12 @@
 | Thmanyah 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Thmanyah 3 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| Okko Futbol | ✅ Online | HLS (.m3u8) | 200 OK |
+| Okko Futbol | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Okko Prime Sport | ✅ Online | HLS (.m3u8) | 200 OK |
-| Okko Sport | ✅ Online | HLS (.m3u8) | 200 OK |
+| Okko Sport | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | F1 TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport F1 IT | ✅ Online | HLS (.m3u8) | 200 OK |
