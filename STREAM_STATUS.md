@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-16 16:18:29 (SGT)
+**Last Checked:** 2026-10-16 20:40:37 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -36,7 +36,7 @@
 | Lawak Sentral | ✅ Online | DASH (.mpd) | 200 OK |
 | Oh My Ceria | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
-| Indosiar | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Indosiar | ✅ Online | DASH (.mpd) | 200 OK |
 | Trans TV | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Trans7 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -181,7 +181,7 @@
 | beIN SPORTS 3 FR | ❌ Offline | HLS (.m3u8) | Error 404 |
 | beIN SPORTS USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS Español | ❌ Offline | HLS (.m3u8) | Error 404 |
-| beIN SPORTS XTRA | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| beIN SPORTS XTRA | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena Bola | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
@@ -266,7 +266,7 @@
 | Arena 1 Premium | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Arena 2 Premium | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Arena 3 Premium | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -283,12 +283,12 @@
 | ESPN 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | ESPN 3 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Caze TV | ✅ Online | DASH (.mpd) | 200 OK |
-| Thmanyah 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Thmanyah 1 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Thmanyah 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Thmanyah 3 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
-| Match! Football 3 | ✅ Online | DASH (.mpd) | 200 OK |
+| Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Okko Futbol | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Okko Prime Sport | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Okko Sport | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
