@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-17 20:18:10 (SGT)
+**Last Checked:** 2026-10-18 03:41:52 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -40,8 +40,8 @@
 | Trans TV | ❌ Offline | DASH (.mpd) | Error 404 |
 | Trans7 | ❌ Offline | DASH (.mpd) | Error 404 |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| MNCTV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
+| MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | ANTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -167,9 +167,9 @@
 | beIN SPORTS 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN SPORTS 1 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 FR | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 3 FR | ❌ Offline | HLS (.m3u8) | Error 404 |
+| beIN SPORTS 3 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS USA | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS Español | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS Español | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | beIN SPORTS XTRA | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sukan+ | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Arena | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -183,11 +183,12 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports Ultimate | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
+| Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -233,7 +234,7 @@
 | DAZN 1 DE | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | DAZN 2 DE | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
-| Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -245,8 +246,8 @@
 | GO3 Sport 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | GO3 Sport OPEN | ✅ Online | DASH (.mpd) | 200 OK |
 | Caze TV | ✅ Online | DASH (.mpd) | 200 OK |
-| Match! Football 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Match! Football 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| Match! Football 1 | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| Match! Football 2 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Match! Football 3 | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Okko Futbol | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Okko Prime Sport | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
