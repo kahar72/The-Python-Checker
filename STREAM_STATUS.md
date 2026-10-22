@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-22 16:50:52 (SGT)
+**Last Checked:** 2026-10-22 21:19:01 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -87,7 +87,7 @@
 | Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | DASH (.mpd) | 200 OK |
-| Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
+| Nat Geo Wild | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
 | Mysterious Worlds | ✅ Online | DASH (.mpd) | 200 OK |
 | Modern Innovations by History | ✅ Online | DASH (.mpd) | 200 OK |
@@ -131,7 +131,7 @@
 | beIN SPORTS SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 2 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 3 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -189,7 +189,7 @@
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sports Main Event | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -198,7 +198,7 @@
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | RugbyPass TV | ✅ Online | DASH (.mpd) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
+| CBS Sports Network | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -232,14 +232,14 @@
 | meWATCH Live 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | meWATCH Live 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Austria 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport 24 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| Sky Sport Uno | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sport Uno | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport Max | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 PT | ✅ Online | HLS (.m3u8) | 200 OK |
