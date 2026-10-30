@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-29 22:33:43 (SGT)
+**Last Checked:** 2026-10-30 04:56:36 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -38,14 +38,14 @@
 | Asian | ✅ Online | DASH (.mpd) | 200 OK |
 | Local | ✅ Online | DASH (.mpd) | 200 OK |
 | Lifestyle | ✅ Online | DASH (.mpd) | 200 OK |
-| SCTV | ❌ Offline | HLS (.m3u8) | Error 404 |
+| SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
-| Trans TV | ❌ Offline | DASH (.mpd) | Error 404 |
-| Trans7 | ❌ Offline | DASH (.mpd) | Error 404 |
+| Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
-| RCTI | ✅ Online | HLS (.m3u8) | 200 OK |
-| MNCTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| ANTV | ❌ Offline | DASH (.mpd) | Error 404 |
+| RCTI | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| MNCTV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| ANTV | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -171,7 +171,7 @@
 | beIN SPORTS 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN SPORTS 1 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 FR | ✅ Online | HLS (.m3u8) | 200 OK |
-| beIN SPORTS 3 FR | ❌ Offline | HLS (.m3u8) | Error 404 |
+| beIN SPORTS 3 FR | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS USA | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS Español | ❌ Offline | HLS (.m3u8) | Error 404 |
 | beIN SPORTS XTRA | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -192,7 +192,7 @@
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Main Event | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sky Sports Football | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -201,7 +201,7 @@
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | RugbyPass TV | ✅ Online | DASH (.mpd) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
+| CBS Sports Network | ❌ Offline | HLS (.m3u8) | Error 404 |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -238,7 +238,7 @@
 | meWATCH Live 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport Top Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport Mix | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -258,7 +258,7 @@
 | Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena Sport 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -285,6 +285,6 @@
 | MBC Shahid Sports 5 | ✅ Online | DASH (.mpd) | 200 OK |
 | F1 TV | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sports F1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sport F1 IT | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| Sky Sport F1 IT | ✅ Online | HLS (.m3u8) | 200 OK |
 | MotoGP | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport MotoGP IT | ✅ Online | HLS (.m3u8) | 200 OK |
