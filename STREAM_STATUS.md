@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-10-30 22:02:30 (SGT)
+**Last Checked:** 2026-10-31 04:43:00 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -38,7 +38,7 @@
 | Asian | ✅ Online | DASH (.mpd) | 200 OK |
 | Local | ✅ Online | DASH (.mpd) | 200 OK |
 | Lifestyle | ✅ Online | DASH (.mpd) | 200 OK |
-| SCTV | ✅ Online | DASH (.mpd) | 200 OK |
+| SCTV | ❌ Failed | DASH (.mpd) | Timeout/Down |
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -48,8 +48,8 @@
 | ANTV | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | RTV | ✅ Online | HLS (.m3u8) | 200 OK |
 | MDTV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Makkah Al Mukarramah | ✅ Online | HLS (.m3u8) | 200 OK |
-| Al Madinah Al Munawwarah | ✅ Online | HLS (.m3u8) | 200 OK |
+| Al Makkah Al Mukarramah | ✅ Online | DASH (.mpd) | 200 OK |
+| Al Madinah Al Munawwarah | ✅ Online | DASH (.mpd) | 200 OK |
 | Astro Oasis | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Al-Hijrah | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Jom Ngaji | ✅ Online | DASH (.mpd) | 200 OK |
@@ -134,7 +134,7 @@
 | beIN SPORTS SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 2 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 3 SG | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ❌ Offline | HLS (.m3u8) | Error 404 |
+| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -187,7 +187,7 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ❌ Offline | HLS (.m3u8) | Error 404 |
+| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -240,7 +240,7 @@
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 1 DE | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport 24 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -255,7 +255,7 @@
 | Eleven Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena 1 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
+| Arena 1 Premium | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Arena 2 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena 3 Premium | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 1 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
