@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-11-04 13:57:58 (SGT)
+**Last Checked:** 2026-11-04 23:23:37 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -15,7 +15,7 @@
 | TV2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TV3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TV3 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| TV3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Snap | ✅ Online | HLS (.m3u8) | 200 OK |
 | Apetito | ✅ Online | HLS (.m3u8) | 200 OK |
 | Aura | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -25,11 +25,11 @@
 | TV9 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 502 |
 | Astro Ria | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Astro Prima | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Astro Citra | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Warna | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Sensasi | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -41,7 +41,7 @@
 | Asian | ✅ Online | DASH (.mpd) | 200 OK |
 | Local | ✅ Online | DASH (.mpd) | 200 OK |
 | Lifestyle | ✅ Online | DASH (.mpd) | 200 OK |
-| SCTV | ✅ Online | DASH (.mpd) | 200 OK |
+| SCTV | ❌ Offline | DASH (.mpd) | Error 500 |
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -205,7 +205,7 @@
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | RugbyPass TV | ✅ Online | DASH (.mpd) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
+| CBS Sports Network | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -221,7 +221,7 @@
 | TSN 4 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 5 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet One | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sportsnet World | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sportsnet World | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet 360 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet Ontario | ✅ Online | DASH (.mpd) | 200 OK |
 | starzplay sports 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -247,7 +247,7 @@
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sport 24 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sky Sport 24 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Uno | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Max | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 PT | ✅ Online | HLS (.m3u8) | 200 OK |
