@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-11-07 05:14:54 (SGT)
+**Last Checked:** 2026-11-07 12:40:11 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,9 +25,9 @@
 | TV9 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Ria | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Ria | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
-| Astro Prima | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
@@ -41,7 +41,7 @@
 | Asian | ✅ Online | DASH (.mpd) | 200 OK |
 | Local | ✅ Online | DASH (.mpd) | 200 OK |
 | Lifestyle | ✅ Online | DASH (.mpd) | 200 OK |
-| SCTV | ✅ Online | DASH (.mpd) | 200 OK |
+| SCTV | ❌ Offline | DASH (.mpd) | Error 500 |
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -97,6 +97,8 @@
 | Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
 | CGTN Documentary | ✅ Online | HLS (.m3u8) | 200 OK |
 | Mysterious Worlds | ✅ Online | DASH (.mpd) | 200 OK |
+| UnXplained Zone | ✅ Online | HLS (.m3u8) | 200 OK |
+| Paranormal Files | ✅ Online | HLS (.m3u8) | 200 OK |
 | Modern Innovations by History | ✅ Online | DASH (.mpd) | 200 OK |
 | Modern Marvels | ✅ Online | DASH (.mpd) | 200 OK |
 | Mythbusters | ✅ Online | DASH (.mpd) | 200 OK |
@@ -135,8 +137,8 @@
 | Nick Jr. | ❌ Offline | DASH (.mpd) | Error 404 |
 | Nickelodeon | ❌ Offline | DASH (.mpd) | Error 404 |
 | Cbeebies | ❌ Offline | DASH (.mpd) | Error 404 |
-| M+ Liga de Campeones | ❌ Offline | HLS (.m3u8) | Error 404 |
-| M+ Liga de Campeones 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| M+ Liga de Campeones | ✅ Online | HLS (.m3u8) | 200 OK |
+| M+ Liga de Campeones 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | M+ Liga de Campeones 3 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | M+ Liga de Campeones 4 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | M+ Liga de Campeones 5 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -148,6 +150,8 @@
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 4 | ✅ Online | DASH (.mpd) | 200 OK |
+| Polsat Sport Premium 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Polsat Sport Premium 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -225,8 +229,8 @@
 | TSN 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 4 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 5 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sportsnet One | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sportsnet World | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sportsnet One | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sportsnet World | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet 360 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet Ontario | ✅ Online | DASH (.mpd) | 200 OK |
 | starzplay sports 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -260,7 +264,7 @@
 | DAZN 3 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 4 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 5 PT | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 1 4K | ✅ Online | HLS (.m3u8) | 200 OK |
+| Eleven Sports 1 4K | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Eleven Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
