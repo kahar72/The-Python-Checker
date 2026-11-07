@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-11-07 12:40:11 (SGT)
+**Last Checked:** 2026-11-07 21:35:44 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -137,11 +137,11 @@
 | Nick Jr. | ❌ Offline | DASH (.mpd) | Error 404 |
 | Nickelodeon | ❌ Offline | DASH (.mpd) | Error 404 |
 | Cbeebies | ❌ Offline | DASH (.mpd) | Error 404 |
-| M+ Liga de Campeones | ✅ Online | HLS (.m3u8) | 200 OK |
+| M+ Liga de Campeones | ❌ Offline | HLS (.m3u8) | Error 404 |
 | M+ Liga de Campeones 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | M+ Liga de Campeones 3 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | M+ Liga de Campeones 4 | ❌ Offline | HLS (.m3u8) | Error 404 |
-| M+ Liga de Campeones 5 | ✅ Online | HLS (.m3u8) | 200 OK |
+| M+ Liga de Campeones 5 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | beIN SPORTS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -155,7 +155,7 @@
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Hub Premier 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -214,7 +214,7 @@
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | RugbyPass TV | ✅ Online | DASH (.mpd) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| CBS Sports Network | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
+| CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -229,7 +229,7 @@
 | TSN 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 4 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 5 | ✅ Online | DASH (.mpd) | 200 OK |
-| Sportsnet One | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sportsnet One | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet World | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet 360 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet Ontario | ✅ Online | DASH (.mpd) | 200 OK |
