@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-11-10 22:58:01 (SGT)
+**Last Checked:** 2026-11-11 05:20:03 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -28,7 +28,7 @@
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
+| Astro Prima | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Astro Citra | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -91,7 +91,7 @@
 | TLC | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Smithsonian Channel | ✅ Online | HLS (.m3u8) | 200 OK |
 | Travel Channel | ✅ Online | HLS (.m3u8) | 200 OK |
-| Outdoor Channel | ✅ Online | HLS (.m3u8) | 200 OK |
+| Outdoor Channel | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | World Fishing Network | ✅ Online | HLS (.m3u8) | 200 OK |
 | National Geographic | ✅ Online | HLS (.m3u8) | 200 OK |
 | Nat Geo Wild | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -200,7 +200,7 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ❌ Offline | HLS (.m3u8) | Error 404 |
+| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TNT Sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | TNT Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -253,7 +253,7 @@
 | Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Bundesliga | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 1 DE | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport 24 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -264,7 +264,7 @@
 | DAZN 3 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 4 PT | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 5 PT | ✅ Online | HLS (.m3u8) | 200 OK |
-| Eleven Sports 1 4K | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Eleven Sports 1 4K | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Eleven Sports 3 | ✅ Online | HLS (.m3u8) | 200 OK |
