@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-11-18 15:19:56 (SGT)
+**Last Checked:** 2026-11-19 00:01:13 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@
 | TV9 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -42,9 +42,9 @@
 | Local | ✅ Online | DASH (.mpd) | 200 OK |
 | Lifestyle | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ❌ Offline | DASH (.mpd) | Error 404 |
-| Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
+| Indosiar | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Trans7 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNCTV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
@@ -154,7 +154,7 @@
 | BBC One | ✅ Online | HLS (.m3u8) | 200 OK |
 | BBC Two | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 DE | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 DE | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -239,9 +239,9 @@
 | Sportsnet World | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sportsnet 360 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet Ontario | ✅ Online | DASH (.mpd) | 200 OK |
-| starzplay sports 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| starzplay sports 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| starzplay sports 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
+| starzplay sports 1 | ✅ Online | DASH (.mpd) | 200 OK |
+| starzplay sports 2 | ✅ Online | DASH (.mpd) | 200 OK |
+| starzplay sports 3 | ✅ Online | DASH (.mpd) | 200 OK |
 | FANCODE 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FANCODE 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Hub Sports 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -260,7 +260,7 @@
 | Sky Sport Mix | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Bundesliga | ❌ Offline | DASH (.mpd) | Error 404 |
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 DE | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport 24 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Uno | ✅ Online | HLS (.m3u8) | 200 OK |
