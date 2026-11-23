@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-11-22 23:24:07 (SGT)
+**Last Checked:** 2026-11-23 06:32:41 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,10 +25,10 @@
 | TV9 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
-| Astro Prima | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Citra | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Citra | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Warna | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -41,7 +41,7 @@
 | Asian | ✅ Online | DASH (.mpd) | 200 OK |
 | Local | ✅ Online | DASH (.mpd) | 200 OK |
 | Lifestyle | ✅ Online | DASH (.mpd) | 200 OK |
-| SCTV | ❌ Failed | DASH (.mpd) | Timeout/Down |
+| SCTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | Indosiar | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans TV | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Trans7 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
@@ -157,7 +157,7 @@
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -175,7 +175,7 @@
 | Sky Sport Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport 9 | ✅ Online | HLS (.m3u8) | 200 OK |
 | USA Network East | ✅ Online | DASH (.mpd) | 200 OK |
-| NBC New York | ✅ Online | DASH (.mpd) | 200 OK |
+| NBC New York | ❌ Offline | DASH (.mpd) | Error 591 |
 | 805 Astro Sports UHD | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Grandstand | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sport Premier League | ❌ Offline | DASH (.mpd) | Error 404 |
@@ -214,7 +214,7 @@
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports+ | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -257,10 +257,10 @@
 | meWATCH Live 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | meWATCH Live 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport Top Event | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sport Austria 1 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Bundesliga | ❌ Offline | DASH (.mpd) | Error 404 |
-| DAZN 1 DE | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 1 DE | ❌ Offline | HLS (.m3u8) | Error 404 |
 | DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
 | SportDigital Fussball | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport 24 | ✅ Online | HLS (.m3u8) | 200 OK |
