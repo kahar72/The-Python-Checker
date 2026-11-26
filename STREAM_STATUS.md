@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-11-25 21:19:51 (SGT)
+**Last Checked:** 2026-11-26 07:29:25 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -43,7 +43,7 @@
 | Lifestyle | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ❌ Offline | DASH (.mpd) | Error 404 |
 | Indosiar | ❌ Offline | HLS (.m3u8) | Error 406 |
-| Trans TV | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
 | Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
@@ -146,7 +146,7 @@
 | TUDN | ✅ Online | HLS (.m3u8) | 200 OK |
 | beIN SPORTS 2 AU | ✅ Online | DASH (.mpd) | 200 OK |
 | beIN SPORTS 3 AU | ✅ Online | DASH (.mpd) | 200 OK |
-| beIN SPORTS USA | ✅ Online | HLS (.m3u8) | 200 OK |
+| beIN SPORTS USA | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | beIN SPORTS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -169,7 +169,7 @@
 | Sky Sport 2 | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sky Sport 3 | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sky Sport 4 | ❌ Offline | HLS (.m3u8) | Error 406 |
-| Sky Sport 5 | ❌ Offline | HLS (.m3u8) | Error 406 |
+| Sky Sport 5 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Sky Sport 6 | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sky Sport 7 | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Sky Sport Premier League | ❌ Offline | HLS (.m3u8) | Error 406 |
@@ -206,14 +206,14 @@
 | Cricbuzz | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Astro Badminton | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Premier Sports Rugby | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| TNT Sports Ultimate | ✅ Online | HLS (.m3u8) | 200 OK |
+| TNT Sports Ultimate | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TNT Sports 1 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 2 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 3 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | TNT Sports 4 | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Football | ❌ Offline | HLS (.m3u8) | Error 401 |
-| Sky Sports Mix | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Mix | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Sky Sports+ | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Action | ❌ Offline | HLS (.m3u8) | Error 401 |
 | Premiersports 1 | ✅ Online | DASH (.mpd) | 200 OK |
@@ -237,7 +237,7 @@
 | TSN 4 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 5 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet One | ❌ Offline | HLS (.m3u8) | Error 406 |
-| Sportsnet World | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sportsnet World | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sportsnet 360 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet Ontario | ✅ Online | DASH (.mpd) | 200 OK |
 | starzplay sports 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -257,7 +257,7 @@
 | meWATCH Live 5 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | meWATCH Live 6 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Sky Sport Top Event | ✅ Online | DASH (.mpd) | 200 OK |
-| Sky Sport Austria 1 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sky Sport Austria 1 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sport Mix | ✅ Online | DASH (.mpd) | 200 OK |
 | Sky Sport Bundesliga | ❌ Offline | DASH (.mpd) | Error 404 |
 | DAZN 1 DE | ❌ Offline | HLS (.m3u8) | Error 404 |
@@ -288,7 +288,7 @@
 | Arena Sport 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 3 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Arena Sport 4 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Arena Sport 5 | ❌ Offline | HLS (.m3u8) | Error 503 |
+| Arena Sport 5 | ✅ Online | HLS (.m3u8) | 200 OK |
 | NOVA SPORT 1 | ✅ Online | DASH (.mpd) | 200 OK |
 | NOVA SPORT 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | SPORT 1 | ✅ Online | DASH (.mpd) | 200 OK |
