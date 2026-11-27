@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-11-27 07:26:11 (SGT)
+**Last Checked:** 2026-11-27 20:51:12 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@
 | TV9 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 401 |
+| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -44,7 +44,7 @@
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ❌ Offline | HLS (.m3u8) | Error 406 |
 | Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| Trans7 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Trans7 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | MNCTV | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
@@ -151,14 +151,14 @@
 | beIN SPORTS 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | beIN SPORTS 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | ITV 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| BBC One | ❌ Offline | HLS (.m3u8) | Error 500 |
+| BBC One | ✅ Online | HLS (.m3u8) | 200 OK |
 | BBC Two | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
+| DAZN 2 DE | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| Sky Sports Premier League | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Ultra 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
 | Hub Premier 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -237,7 +237,7 @@
 | TSN 4 | ✅ Online | DASH (.mpd) | 200 OK |
 | TSN 5 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet One | ❌ Offline | HLS (.m3u8) | Error 406 |
-| Sportsnet World | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sportsnet World | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Sportsnet 360 | ✅ Online | DASH (.mpd) | 200 OK |
 | Sportsnet Ontario | ✅ Online | DASH (.mpd) | 200 OK |
 | starzplay sports 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
