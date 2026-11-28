@@ -1,5 +1,5 @@
 # 📺 IPTV Health Report
-**Last Checked:** 2026-11-27 20:51:12 (SGT)
+**Last Checked:** 2026-11-28 06:56:30 (SGT)
 
 | Channel Name | Status | Type | Result |
 | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@
 | TV9 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TVS | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | TV Okey | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
-| Astro Ria | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Astro Ria | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Astro Ria | ✅ Online | HLS (.m3u8) | 200 OK |
 | Astro Prima | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
 | Astro Prima | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -43,7 +43,7 @@
 | Lifestyle | ✅ Online | DASH (.mpd) | 200 OK |
 | SCTV | ✅ Online | DASH (.mpd) | 200 OK |
 | Indosiar | ❌ Offline | HLS (.m3u8) | Error 406 |
-| Trans TV | ✅ Online | HLS (.m3u8) | 200 OK |
+| Trans TV | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | Trans7 | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | TVRI | ✅ Online | HLS (.m3u8) | 200 OK |
 | RCTI | ⚠️ Restricted | HLS (.m3u8) | 403 (Requires Key/Token) |
@@ -140,7 +140,7 @@
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Soccer Plus | ✅ Online | HLS (.m3u8) | 200 OK |
-| CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
+| CBS Sports Network | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | Fox Deportes | ✅ Online | HLS (.m3u8) | 200 OK |
 | TUDN | ✅ Online | HLS (.m3u8) | 200 OK |
@@ -154,11 +154,11 @@
 | BBC One | ✅ Online | HLS (.m3u8) | 200 OK |
 | BBC Two | ✅ Online | HLS (.m3u8) | 200 OK |
 | DAZN 1 DE | ✅ Online | HLS (.m3u8) | 200 OK |
-| DAZN 2 DE | ❌ Failed | HLS (.m3u8) | Timeout/Down |
-| Sky Sports Premier League | ❌ Failed | HLS (.m3u8) | Timeout/Down |
+| DAZN 2 DE | ✅ Online | HLS (.m3u8) | 200 OK |
+| Sky Sports Premier League | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Main Event | ✅ Online | HLS (.m3u8) | 200 OK |
 | Sky Sports Ultra 1 | ✅ Online | HLS (.m3u8) | 200 OK |
-| Sky Sports Ultra 2 | ❌ Offline | HLS (.m3u8) | Error 404 |
+| Sky Sports Ultra 2 | ✅ Online | HLS (.m3u8) | 200 OK |
 | Hub Premier 1 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 2 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
 | Hub Premier 3 | ⚠️ Restricted | DASH (.mpd) | 403 (Requires Key/Token) |
@@ -220,7 +220,7 @@
 | Premiersports 2 | ✅ Online | DASH (.mpd) | 200 OK |
 | RugbyPass TV | ✅ Online | DASH (.mpd) | 200 OK |
 | RedBull TV | ✅ Online | HLS (.m3u8) | 200 OK |
-| CBS Sports Network | ✅ Online | HLS (.m3u8) | 200 OK |
+| CBS Sports Network | ❌ Failed | HLS (.m3u8) | Timeout/Down |
 | CBS Sports Golazo Network | ✅ Online | DASH (.mpd) | 200 OK |
 | FS1 | ✅ Online | DASH (.mpd) | 200 OK |
 | FS2 | ✅ Online | DASH (.mpd) | 200 OK |
